@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Marta Gomez-Barrero
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,40 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: PostDoc Researcher at da/sec
+url: "https://dasec.h-da.de/"
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: Hochschule Darmstadt
+  url: "https://h-da.de/"
+- name: ATHENE
+  url: "https://www.athene-center.de/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My current research focuses on security and privacy evaluations of biometric systems, Presentation Attack Detection (PAD) methodologies and biometric template protection schemes.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Biometrics
+- Machine Learning
+- Template Protection
+- Security and Privacy Evaluation of Biometric Systems
+- Presentation Attack Detection
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Electrical Engineering
+    institution: Universidad Autonoma de Madrid, Spain
+    year: 2016
+  - course: MPhil in Computer Science and Electrical Engineering
+    institution: Universidad Autonoma de Madrid, Spain
+    year: 2013
+  - course: MSc in Computer Science
+    institution: Universidad Autonoma de Madrid, Spain
+    year: 2011
+  - course: MSc in Mathematics
+    institution: Universidad Autonoma de Madrid, Spain
+    year: 2011
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -70,6 +78,4 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Marta Gomez-Barrero received her MSc degrees in Computer Science and Mathematics, and her PhD degree in Electrical Engineering from Universidad Autonoma de Madrid, in 2011 and 2016, respectively. Since 2016 she is a postdoctoral researcher at the National Research Center for Applied Cybersecurity (ATHENE), Germany. Her current research focuses on security and privacy evaluations of biometric systems, Presentation Attack Detection (PAD) methodologies and biometric template protection schemes. She is the recipient of a number of distinctions, including: EAB European Biometric Industry Award 2015, Best Ph.D. Thesis Award by Universidad Autonoma de Madrid 2015/16, Siew-Sngiem Best Paper Award at ICB 2015, Archimedes Award for young researches from Spanish MECD and Best Poster Award at ICB 2013.
