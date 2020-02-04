@@ -11,14 +11,14 @@ superuser: true
 
 # Role/position
 role: PostDoc Researcher at da/sec
-url: "dasec.h-da.de/"
+link: "https://dasec.h-da.de/"
 
 # Organizations/Affiliations
 organizations:
 - name: Hochschule Darmstadt
-  url: "h-da.de/"
+  link: "https://h-da.de/"
 - name: ATHENE
-  url: "www.athene-center.de/"
+  link: "https://www.athene-center.de/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My current research focuses on security and privacy evaluations of biometric systems, Presentation Attack Detection (PAD) methodologies and biometric template protection schemes.
