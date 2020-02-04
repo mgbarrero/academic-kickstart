@@ -53,15 +53,12 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
+  link: https://scholar.google.com/citations?user=n6UNbE8AAAAJ&hl=es
+- icon: linkedin
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://www.linkedin.com/in/martagomezbarrero/?locale=en_US
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -73,9 +70,9 @@ email: ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-- Researchers
-- Visitors
+#user_groups:
+#- Researchers
+#- Visitors
 ---
 
 Marta Gomez-Barrero received her MSc degrees in Computer Science and Mathematics, and her PhD degree in Electrical Engineering from Universidad Autonoma de Madrid, in 2011 and 2016, respectively. Since 2016 she is a postdoctoral researcher at the National Research Center for Applied Cybersecurity (ATHENE), Germany. Her current research focuses on security and privacy evaluations of biometric systems, Presentation Attack Detection (PAD) methodologies and biometric template protection schemes. She is the recipient of a number of distinctions, including: EAB European Biometric Industry Award 2015, Best Ph.D. Thesis Award by Universidad Autonoma de Madrid 2015/16, Siew-Sngiem Best Paper Award at ICB 2015, Archimedes Award for young researches from Spanish MECD and Best Poster Award at ICB 2013.
