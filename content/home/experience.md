@@ -25,11 +25,6 @@ date_format = "Jan 2006"
   date_start = "2016-06-15"
   date_end = ""
   description = """
-  #Responsibilities include:
-  #
-  #* Analysing
-  #* Modelling
-  #* Deploying
   """
 
 [[experience]]
