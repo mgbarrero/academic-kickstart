@@ -57,7 +57,7 @@ date_format = "Jan 2006"
   description = "Contribution: Stealing Identities: New Attack to a Multimodal Biometric System"
 
 [[item]]
-  organization = "ISCA/spLC"
+  organization = "IAPR/IEEE"
   title = "Best Poster Award at ICB 2013"
   url = "http://atvs.ii.uam.es/icb2013/awards.jsp"
   date_start = "2013-06-01"
