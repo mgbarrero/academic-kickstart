@@ -19,33 +19,49 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Coursera"
-  organization_url = "https://www.coursera.org"
-  title = "Neural Networks and Deep Learning"
-  url = ""
-  certificate_url = "https://www.coursera.org"
-  date_start = "2018-10-01"
+  organization = "ISCA/spLC"
+  title = "Best Paper Award at Odyssey 2018"
+  url = "http://www.odyssey2018.org/"
+  date_start = "2018-06-01"
   date_end = ""
-  description = ""
+  description = "Contribution: A. Nautsch, S. Isadskiy, J. Kolberg, M. Gomez-Barrero, and C. Busch, ''Homomorphic Encryption for Speaker Recognition: Protection of Biometric Templates and Vendor Model Parameters''"
 
 [[item]]
-  organization = "edX"
-  organization_url = "https://www.edx.org"
-  title = "Blockchain Fundamentals"
-  url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
-  certificate_url = "https://www.edx.org"
-  date_start = "2018-03-01"
+  organization = "Universidad Autonoma de Madrid"
+  organization_url = "https://www.uam.es"
+  title = "Best Ph.D. Thesis Award by Universidad Autonoma de Madrid 2015/16"
+  date_start = "2016-12-01"
   date_end = ""
-  description = "Formulated informed blockchain models, hypotheses, and use cases."
   
 [[item]]
-  organization = "DataCamp"
-  organization_url = "https://www.datacamp.com"
-  title = "Object-Oriented Programming in R: S3 and R6 Course"
-  url = ""
-  certificate_url = "https://www.datacamp.com"
-  date_start = "2017-07-01"
-  date_end = "2017-12-21"
-  description = ""
+  organization = "European Association for Biometrics (EAB)"
+  organization_url = "https://eab.org/"
+  title = "European Biometrics Industry Award 2015"
+  url = "https://eab.org/award/hall_of_fame.html?ts=1580890913995"
+  date_start = "2015-09-01"
+  description = "Contribution: Fully Unlinkable and Irreversible Template Protection Based on Bloom Filters"
+
+[[item]]
+  organization = "IAPR/IEEE"
+  title = "Best Paper Award at ICB 2015"
+  date_start = "2015-05-01"
+  date_end = ""
+  description = "Contribution: M. Gomez-Barrero, J. Galbally, J. Fierrez, J. Ortega-Garcia, and R. Plamondon, ''Enhanced on-line signature verification based on skilled forgery detection using sigma-lognormal features''"
+  
+[[item]]
+  organization = "Spanish Ministry of Education"
+  organization_url = "https://www.educacionyfp.gob.es/portada.html"
+  title = "Archimedes Award for Young Researchers"
+  date_start = "2013-09-01"
+  date_end = ""
+  description = "Contribution: Stealing Identities: New Attack to a Multimodal Biometric System"
+
+[[item]]
+  organization = "ISCA/spLC"
+  title = "Best Poster Award at ICB 2013"
+  url = "http://atvs.ii.uam.es/icb2013/awards.jsp"
+  date_start = "2013-06-01"
+  date_end = ""
+  description = "Contribution: M. Gomez-Barrero, J. Galbally, R. Plamondon, J. Fierrez, and J. Ortega-Garcia, ''Variations of handwritten signatures with time: A sigma-lognormal analysis''"
 
 +++
