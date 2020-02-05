@@ -165,6 +165,7 @@ plugins_js  = []
 [avatar]
   # Get user avatars from Gravatar.com? (true/false)
   gravatar = false
+  avatar = "profilePic.png"
 
   # Choose a shape for avatar images. Options: circle, square.
   shape = "circle"
