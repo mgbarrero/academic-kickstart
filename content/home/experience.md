@@ -41,8 +41,8 @@ date_format = "Jan 2006"
   company = "Universidad Autonoma de Madrid"
   company_url = ""
   location = "Spain"
-  date_start = "2012-09-30"
-  date_end = "2010-09-01"
+  date_start = "2010-09-01"
+  date_end = "2012-09-30"
   #description = """Taught electronic engineering and researched semiconductor physics."""
 
 +++
