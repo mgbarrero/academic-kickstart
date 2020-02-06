@@ -1,8 +1,8 @@
 ---
 title: "Towards Multi-Modal Finger Presentation Attack Detection"
 date: 2018-11-01
-publishDate: 2020-02-06T11:36:41.963395Z
-authors: ["\textbfM. Gomez-Barrero", "J. Kolberg", "C. Busch"]
+publishDate: 2020-02-06T11:44:00.391772Z
+authors: ["M. Gomez-Barrero", "J. Kolberg", "C. Busch"]
 publication_types: ["1"]
 abstract: ""
 featured: false

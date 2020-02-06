@@ -1,8 +1,8 @@
 ---
 title: "Fingerprint Presentation Attack Detection Method based on a Bag-of-Words Approach"
 date: 2017-01-01
-publishDate: 2020-02-06T11:36:41.958751Z
-authors: ["L. J. Gonzalez-Soler", "L. Chang", "J. Hernandez-Palancar", "A. Perez Suarez", "\textbfM. Gomez-Barrero"]
+publishDate: 2020-02-06T11:44:00.386606Z
+authors: ["L. J. Gonzalez-Soler", "L. Chang", "J. Hernandez-Palancar", "A. Perez Suarez", "M. Gomez-Barrero"]
 publication_types: ["1"]
 abstract: ""
 featured: false

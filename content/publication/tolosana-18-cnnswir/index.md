@@ -1,8 +1,8 @@
 ---
 title: "Towards Fingerprint Presentation Attack Detection Based on Convolutional Neural Networks and Short Wave Infrared Imaging"
 date: 2018-09-01
-publishDate: 2020-02-06T11:36:41.962238Z
-authors: ["R. Tolosana", "\textbfM. Gomez-Barrero", "J. Kolberg", "A. Morales", "C. Busch", "J. Ortega"]
+publishDate: 2020-02-06T11:44:00.390415Z
+authors: ["R. Tolosana", "M. Gomez-Barrero", "J. Kolberg", "A. Morales", "C. Busch", "J. Ortega"]
 publication_types: ["1"]
 abstract: ""
 featured: false

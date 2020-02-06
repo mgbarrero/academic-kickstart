@@ -1,8 +1,8 @@
 ---
 title: "Securing iris recognition systems against masquerade attacks"
 date: 2013-05-01
-publishDate: 2020-02-06T11:36:41.943893Z
-authors: ["J. Galbally", "\textbfM. Gomez-Barrero", "A. Ross", "J. Fierrez", "J. Ortega-Garcia"]
+publishDate: 2020-02-06T11:44:00.374128Z
+authors: ["J. Galbally", "M. Gomez-Barrero", "A. Ross", "J. Fierrez", "J. Ortega-Garcia"]
 publication_types: ["1"]
 abstract: ""
 featured: false

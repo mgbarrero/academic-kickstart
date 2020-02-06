@@ -1,8 +1,8 @@
 ---
 title: "Standardisierung von Biometric Template Protection: Aktueller Status und Bewertung der Verknüpfbarkeit"
 date: 2017-07-01
-publishDate: 2020-02-06T11:36:41.951540Z
-authors: ["\textbfM. Gomez-Barrero", "C. Rathgeb", "C. Busch"]
+publishDate: 2020-02-06T11:44:00.383540Z
+authors: ["M. Gomez-Barrero", "C. Rathgeb", "C. Busch"]
 publication_types: ["2"]
 abstract: ""
 featured: false
