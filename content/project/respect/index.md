@@ -1,6 +1,6 @@
  ---
 title: RESPECT: REliable, Secure and Privacy preserving multi-biometric pErson authentiCaTion
-#summary: An example of linking directly to an external project website using `external_link`.
+summary: DFG-ARN funded project on multimodal biometric authentication on mobile devices, with Presentation Attack Detection (PAD) and Biometric Template Protection (BTP) capabilities.
 tags:
 - international
 date: "2019-05-01"
