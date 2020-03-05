@@ -8,4 +8,8 @@ date: "2017"
 # Optional external URL for project (replaces project detail page).
 external_link: https://dasec.h-da.de/projects/batl/
 
+image:
+  caption: BATL logo
+  focal_point: Smart
+  
 ---
