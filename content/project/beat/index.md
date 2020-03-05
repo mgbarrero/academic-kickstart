@@ -8,4 +8,8 @@ date: "2012"
 # Optional external URL for project (replaces project detail page).
 external_link: https://www.beat-eu.org/
 
+image:
+  caption: BEAT logo
+  focal_point: Smart
+
 ---
