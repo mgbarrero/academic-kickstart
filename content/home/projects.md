@@ -24,16 +24,7 @@ subtitle = ""
   [[content.filter_button]]
      name = "All"
      tag = "*"
-  
- [[item]] 
- title = "RESPECT: REliable, Secure and Privacy preserving multi-biometric pErson authentiCaTion" 
- url = "http://www.respect-project.eu/" 
- date_start = "2019-05-01" 
- date_end = "2022-04-30" 
- # description = "Contribution: M. Gomez-Barrero, J. Galbally, R. Plamondon, J. Fierrez, and J. Ortega-Garcia, ''Variations of handwritten signatures with time: A sigma-lognormal analysis''"
-  
-
-  
+    
   # [[content.filter_button]]
   #   name = "Deep Learning"
   #   tag = "Deep Learning"
