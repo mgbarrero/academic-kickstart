@@ -12,7 +12,7 @@ subtitle = ""
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
 date_format = "Jan 2006"
 
-# Accomplishments.
+# Teaching.
 #   Add/remove as many `[[item]]` blocks below as you like.
 #   `title`, `organization` and `date_start` are the required parameters.
 #   Leave other parameters empty if not required.
@@ -42,6 +42,5 @@ date_format = "Jan 2006"
   date_start = "2018-10-01"
   date_end = "2020-01-31"
   description = "1. Semester Bachelor IT-Sicherheit, WS 2018/19, WS 2019/20"
-
 
 +++
