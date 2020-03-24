@@ -3,7 +3,7 @@ title: Tutorial on Biometric Template Protection and Evaluation
 event: Int. Workshop on Information Forensics and Security (WIFS)
 event_url: https://wifs2018.comp.polyu.edu.hk/tutorials.html
 
-#location: Hong Kong
+location: Hong Kong
 #address:
 #  street: 450 Serra Mall
 #  city: Stanford
@@ -29,19 +29,19 @@ tags: []
 # Is this a featured talk? (true/false)
 featured: true
 
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
-  focal_point: Right
+#image:
+#  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+#  focal_point: Right
 
-links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/georgecushen
-url_code: ""
-url_pdf: ""
-url_slides: ""
-url_video: ""
+#links:
+#- icon: twitter
+#  icon_pack: fab
+#  name: Follow
+#  url: https://twitter.com/georgecushen
+#url_code: ""
+#url_pdf: ""
+#url_slides: ""
+#url_video: ""
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
