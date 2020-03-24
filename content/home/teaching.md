@@ -20,7 +20,7 @@ date_format = "Jan 2006"
 
 [[item]]
   organization = "Hochschule Ansbach"
-  title = "Kryptographie"
+  title = "Kryptographie (Eng. Cryptography)"
   url = "https://moodle.hs-ansbach.de/course/view.php?id=1529"
   date_start = "2020-03-15"
   date_end = ""
@@ -28,7 +28,7 @@ date_format = "Jan 2006"
   
 [[item]]
   organization = "Hochschule Ansbach"
-  title = "Technische und organisatorische Datenschutzmaßnahmen"
+  title = "Technische und organisatorische Datenschutzmaßnahmen (Eng. Technical and organisatorial privacy measures)"
   url = "https://moodle.hs-ansbach.de/course/view.php?id=1530"
   date_start = "2020-03-15"
   date_end = ""
@@ -37,7 +37,7 @@ date_format = "Jan 2006"
   
 [[item]]
   organization = "Hochschule Darmstadt"
-  title = "IT-Sicherheit"
+  title = "IT-Sicherheit (Eng. IT-Security)"
   url = "https://dasec.h-da.de/teaching/it-sicherheit-dr-marta-gomez-barrero-ws19-20/"
   date_start = "2018-10-01"
   date_end = "2020-01-31"
