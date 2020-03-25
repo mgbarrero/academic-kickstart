@@ -4,14 +4,8 @@ event: NIST Int. Face Performance Conf. (IFPC)
 event_url: https://www.nist.gov/news-events/events/2018/11/international-face-performance-conference-ifpc-2018
 
 location: Gaithersburg, USA
-#address:
-#  street: 450 Serra Mall
-#  city: Stanford
-#  region: CA
-#  postcode: '94305'
-#  country: United States
 
-summary: Invited presentation on the evaluation metrics of presentation attacks and morphing attacks, in compliance with the ISO/IEC IS 30107-3 on Biometric presentation attack detection - Part 3: Testing and reporting
+summary: Invited presentation on the evaluation metrics of presentation attacks and morphing attacks, in compliance with the ISO/IEC IS 30107 on Biometric presentation attack detection, Part 3: Testing and reporting
 #abstract: "The recent discussion on privacy protection, for instance within the framework of the new EU General Data Protection Regulation (GDPR), has raised privacy concerns regarding the storage and use of biometric data. The international standard ISO/IEC 24745 has established two main requirements for protecting biometric templates i) irreversibility and ii) unlinkability back in 2011. Since then, numerous efforts have been directed to the development and analysis of irreversible templates. However, only very recently, in 2018, a systematic quantitative manner to analyse the unlinkability of such templates was proposed. As a consequence, the lack of a unified framework to analyse all privacy aspects of biometric template protection schemes may have hindered their further deployment.
 #In this tutorial, we focus on the objective and quantitative evaluation of biometric template protection schemes. To that end, the main concepts related to template protection are introduced, together with a review of the main existing approaches. A unified framework for the evaluation and benchmarking is subsequently described, including the recently proposed unlinkability metric. It should be noted that these metrics can be also applied in other areas of signal processing in the encrypted domain. Finally, we assess the potential from this approach by evaluating the performance of two state-the-art techniques for biometric template protection: Bloom filters and Homomorphic Encryption."
 
