@@ -1,7 +1,6 @@
 ---
 title: Vulnerability Evaluation of Presentation Morphing Attacks
 event: NIST Int. Face Performance Conf. (IFPC)
-event_url: https://www.nist.gov/news-events/events/2018/11/international-face-performance-conference-ifpc-2018
 
 location: Gaithersburg, USA
 
