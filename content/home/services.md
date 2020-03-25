@@ -58,7 +58,7 @@ date_format = "Jan 2006"
   title = "Special Issue Editor"
   date_start = "2017-01-01"
   date_end = "2017-01-01"
-  description = "Schwerpunkt: Biometrie - Sicherheits- und DS-Konzepte"
+  description = "Schwerpunkt: Biometrie - Sicherheits- und DS-Konzepte (Eng. Biometrics - Security and data privacy aspects)"
   
 [[item]]
   organization = "JRC Indexed Journals"
