@@ -4,12 +4,6 @@ event: Preserving Privacy in an age of increased surveillance - A biometrics per
 #event_url: https://wifs2018.comp.polyu.edu.hk/tutorials.html
 
 location: IBM London, UK
-#address:
-#  street: 450 Serra Mall
-#  city: Stanford
-#  region: CA
-#  postcode: '94305'
-#  country: United States
 
 summary: Invited talk on the main security and privacy issues related to biometric systems, and some insights on how to tackle them
 #abstract: "The recent discussion on privacy protection, for instance within the framework of the new EU General Data Protection Regulation (GDPR), has raised privacy concerns regarding the storage and use of biometric data. The international standard ISO/IEC 24745 has established two main requirements for protecting biometric templates i) irreversibility and ii) unlinkability back in 2011. Since then, numerous efforts have been directed to the development and analysis of irreversible templates. However, only very recently, in 2018, a systematic quantitative manner to analyse the unlinkability of such templates was proposed. As a consequence, the lack of a unified framework to analyse all privacy aspects of biometric template protection schemes may have hindered their further deployment.
@@ -17,7 +11,7 @@ summary: Invited talk on the main security and privacy issues related to biometr
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2018-04-25"
+date: "2018-10-19"
 #date_end: "2030-06-01T15:00:00Z"
 all_day: false
 
@@ -28,7 +22,7 @@ authors: []
 tags: []
 
 # Is this a featured talk? (true/false)
-featured: false
+featured: true
 
 #image:
 #  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
