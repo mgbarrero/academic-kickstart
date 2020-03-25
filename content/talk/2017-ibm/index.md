@@ -1,7 +1,7 @@
 ---
 title: Secure and Privacy Preserving Biometric Systems: from Biometric Template Protection to Presentation Attack Detection
-event: Preserving Privacy in an age of increased surveillance - A Biometrics Perspective
-event_url: http://eab.org/events/past_events.html?ts=1508493277447
+event: Preserving Privacy in an age of increased surveillance: A Biometrics Perspective
+#event_url: http://eab.org/events/past_events.html?ts=1508493277447
 
 location: IBM London, UK
 #address:
