@@ -1,15 +1,15 @@
 ---
-title: Vulnerability Evaluation of Presentation Morphing Attacks
-event: NIST Int. Face Performance Conf. (IFPC)
-event_url: https://www.nist.gov/news-events/events/2018/11/international-face-performance-conference-ifpc-2018
+title: Secure and Privacy Preserving Biometric Systems - from Biometric Template Protection to Presentation Attack Detection
+event: Preserving Privacy in an age of increased surveillance - A biometrics perspective
+#event_url: https://wifs2018.comp.polyu.edu.hk/tutorials.html
 
-location: Gaithersburg, USA
+location: IBM London, UK
 
-summary: Invited presentation on evaluation metrics for the vulnerability of biometric systems to presentation attacks and morphing attacks, in compliance with the ISO/IEC IS 30107 on Biometric presentation attack detection, Part 3 Testing and reporting
+summary: Invited talk on the main security and privacy issues related to biometric systems, and some insights on how to tackle them
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2018-11-28"
+date: "2018-10-19"
 #date_end: "2030-06-01T15:00:00Z"
 all_day: false
 
