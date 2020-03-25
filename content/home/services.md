@@ -40,11 +40,11 @@ date_format = "Jan 2006"
   description = "Keystroke Biometrics Ongoing Competition (KBOC)"
 
 [[item]]
-  organization = "Int. Conf. on Biometrics (ICB), Int. Joint Conf. on Biometrics (IJCB), BIOSIG, European Signal Processing Conf. (EUSIPCO), Int. Conf. on Acoustics, Speech and Signal Processing (ICASSP)"
+  organization = "Internation Conferences"
   title = "Program Committee Member"
   date_start = "2015-01-01"
   date_end = ""
-  description = ""
+  description = "Among others: Int. Conf. on Biometrics (ICB), Int. Joint Conf. on Biometrics (IJCB), BIOSIG, European Signal Processing Conf. (EUSIPCO), Int. Conf. on Acoustics, Speech and Signal Processing (ICASSP)"
 
 [[item]]
   organization = "EURASIP Journal on Information Security"
