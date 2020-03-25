@@ -41,6 +41,6 @@ date_format = "Jan 2006"
   url = "https://dasec.h-da.de/teaching/it-sicherheit-dr-marta-gomez-barrero-ws19-20/"
   date_start = "2018-10-01"
   date_end = "2020-01-31"
-  description = "1. Semester Bachelor IT-Sicherheit, WS 2018/19, WS 2019/20"
+  description = "1. Semester Bachelor Informatik, WS 2018/19, WS 2019/20"
 
 +++
