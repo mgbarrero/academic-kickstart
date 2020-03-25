@@ -1,7 +1,9 @@
 ---
 title: Vulnerability Evaluation of Presentation Morphing Attacks
-event: NIST IPFPC
-location: USA
+event: NIST Int. Face Performance Conf. (IFPC)
+event_url: https://www.nist.gov/news-events/events/2018/11/international-face-performance-conference-ifpc-2018
+
+location: Gaithersburg, USA
 
 summary: Invited presentation on the evaluation metrics of presentation attacks and morphing attacks, in compliance with the ISO/IEC IS 30107 on Biometric presentation attack detection, Part 3 Testing and reporting
 
