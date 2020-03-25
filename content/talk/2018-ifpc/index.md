@@ -1,8 +1,7 @@
 ---
 title: Vulnerability Evaluation of Presentation Morphing Attacks
-event: NIST Int. Face Performance Conf. (IFPC)
-
-location: Gaithersburg, USA
+event: NIST IPFPC
+location: USA
 
 summary: Invited presentation on the evaluation metrics of presentation attacks and morphing attacks, in compliance with the ISO/IEC IS 30107 on Biometric presentation attack detection, Part 3: Testing and reporting
 #abstract: "The recent discussion on privacy protection, for instance within the framework of the new EU General Data Protection Regulation (GDPR), has raised privacy concerns regarding the storage and use of biometric data. The international standard ISO/IEC 24745 has established two main requirements for protecting biometric templates i) irreversibility and ii) unlinkability back in 2011. Since then, numerous efforts have been directed to the development and analysis of irreversible templates. However, only very recently, in 2018, a systematic quantitative manner to analyse the unlinkability of such templates was proposed. As a consequence, the lack of a unified framework to analyse all privacy aspects of biometric template protection schemes may have hindered their further deployment.
