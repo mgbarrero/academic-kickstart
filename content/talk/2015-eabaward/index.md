@@ -1,7 +1,7 @@
 ---
 title: Fully Unlinkable and Irreversible Template Protection Based on Bloom Filters
-event: NISlab Seminar
-event_url: https://nislab.no/
+event: EAB PhD Awards
+event_url: https://eab.org/award/cfp.html
 
 location: NTNU Gjøvik, Norway
 #address:
