@@ -19,7 +19,7 @@ summary: Presentation on unlinkability measures for the ISO/IEC IS 30136 on Perf
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: "2017-01-30"
 #date_end: "2030-06-01T15:00:00Z"
-all_day: false
+all_day: true
 
 # Schedule page publish date (NOT talk date).
 #publishDate: "2017-01-01T00:00:00Z"
