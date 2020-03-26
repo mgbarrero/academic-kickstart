@@ -3,7 +3,7 @@ title: Fully Unlinkable and Irreversible Template Protection Based on Bloom Filt
 event: EAB PhD Awards
 event_url: https://eab.org/award/cfp.html
 
-location: NTNU Gjøvik, Norway
+location: Fraunhofer IGD, Darmstadt, Germany
 #address:
 #  street: 450 Serra Mall
 #  city: Stanford
