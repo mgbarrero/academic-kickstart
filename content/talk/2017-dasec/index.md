@@ -1,5 +1,5 @@
 ---
-title: Biometric Symmetry: Implications on Template Protection
+title: Biometric Symmetry - Implications on Template Protection
 event: da/sec Scientific Talks
 event_url: https://dasec.h-da.de/teaching/dasec-scientific-talk/2017-06-22-on-biometrics/
 
