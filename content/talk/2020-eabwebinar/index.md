@@ -42,7 +42,7 @@ links:
 #url_code: ""
 #url_pdf: ""
 #url_slides: ""
-#url_video: ""
+url_video: "https://eab.org/events/lecture_barrero-200615.html"
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
