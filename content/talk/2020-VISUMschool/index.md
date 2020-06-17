@@ -18,7 +18,7 @@ summary: Lecture on general concepts of information security, introduction to pr
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: "2020-07-09"
-#date_end: "2030-06-01T15:00:00Z"
+date_end: "2020-07-09"
 all_day: true
 
 # Schedule page publish date (NOT talk date).
