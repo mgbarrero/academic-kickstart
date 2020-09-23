@@ -69,13 +69,25 @@ date_format = "Jan 2006"
   description = ""
   
 [[item]]
-  organization = "JCR Journals"
+  organization = "Pattern Recognition"
   title = "Special Issue Editor"
   date_start = "2020-09-01"
   date_end = ""
-  description = "* Pattern Recognition: SI on Masked Face Recognition and Touchless Biometrics at the time of COVID-19
-  * IET Biometrics: BIOSIG 2020 SI on Trustworthiness of Person Authentication
-  * Datenschutz und Datensicherheit: Biometrie - Sicherheits- und DS-Konzepte (Eng. Biometrics - Security and data privacy aspects)"
+  description = "SI on Masked Face Recognition and Touchless Biometrics at the time of COVID-19"
+  
+[[item]]
+  organization = "IET Biometrics"
+  title = "Special Issue Editor"
+  date_start = "2020-09-18"
+  date_end = ""
+  description = "BIOSIG 2020 SI on Trustworthiness of Person Authentication"
+
+[[item]]
+  organization = "Datenschutz und Datensicherheit"
+  title = "Special Issue Editor"
+  date_start = "2017-01-01"
+  date_end = "2017-01-01"
+  description = "Schwerpunkt: Biometrie - Sicherheits- und DS-Konzepte (Eng. Biometrics - Security and data privacy aspects)"
   
 [[item]]
   organization = "JRC Indexed Journals"
