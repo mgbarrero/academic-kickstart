@@ -26,7 +26,7 @@ date_format = "Jan 2006"
   description = ""
   
 [[item]]
-  organization = "WACV 2021 Workshop on Explainable \& Interpretable Artificial Intelligence for Biometrics"
+  organization = "WACV 2021 Workshop on Explainable and Interpretable Artificial Intelligence for Biometrics"
   title = "Sponsor Chair"
   date_start = "2020-09-20"
   date_end = ""
