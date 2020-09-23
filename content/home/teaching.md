@@ -20,6 +20,14 @@ date_format = "Jan 2006"
 
 [[item]]
   organization = "Hochschule Ansbach"
+  title = "Einführung in die IT-Sicherheit (Eng. Introduction to IT-Security)"
+  url = "https://moodle.hs-ansbach.de/course/view.php?id=1864"
+  date_start = "2020-10-10"
+  date_end = ""
+  description = "1. Semester Bachelor Datenschutz und IT-Sicherheit, SS 2020"
+  
+[[item]]
+  organization = "Hochschule Ansbach"
   title = "Kryptographie (Eng. Cryptography)"
   url = "https://moodle.hs-ansbach.de/course/view.php?id=1529"
   date_start = "2020-03-15"
@@ -33,7 +41,14 @@ date_format = "Jan 2006"
   date_start = "2020-03-15"
   date_end = ""
   description = "2. Semester Bachelor Datenschutz und IT-Sicherheit, SS 2020"
-
+  
+[[item]]
+  organization = "Hochschule Ansbach"
+  title = "Privacy Engineering"
+  url = "https://moodle.hs-ansbach.de/course/view.php?id=1865"
+  date_start = "2020-10-10"
+  date_end = ""
+  description = "3. Semester Bachelor Datenschutz und IT-Sicherheit, SS 2020"
   
 [[item]]
   organization = "Hochschule Darmstadt"
