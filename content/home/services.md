@@ -19,6 +19,21 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
+  organization = "BIOSIG 2021 - Present"
+  title = "General Chair"
+  date_start = "2020-09-15"
+  date_end = ""
+  description = ""
+  
+[[item]]
+  organization = "WACV 2021 Workshop on Explainable \& Interpretable Artificial Intelligence for Biometrics"
+  title = "Sponsor Chair"
+  date_start = "2020-09-20"
+  date_end = ""
+  description = ""
+
+
+[[item]]
   organization = "Int. Workshop on Biometrics and Forensics (IWBF)"
   title = "Publication Chair"
   date_start = "2020-04-29"
@@ -40,7 +55,7 @@ date_format = "Jan 2006"
   description = "Keystroke Biometrics Ongoing Competition (KBOC)"
 
 [[item]]
-  organization = "Internation Conferences"
+  organization = "International Conferences"
   title = "Program Committee Member"
   date_start = "2015-01-01"
   date_end = ""
@@ -52,6 +67,20 @@ date_format = "Jan 2006"
   date_start = "2019-11-01"
   date_end = ""
   description = ""
+  
+[[item]]
+  organization = "Pattern Recognition"
+  title = "Special Issue Editor"
+  date_start = "2020-09-01"
+  date_end = ""
+  description = "SI on Masked Face Recognition and Touchless Biometrics at the time of COVID-19"
+  
+[[item]]
+  organization = "IET Biometrics"
+  title = "Special Issue Editor"
+  date_start = "2020-09-18"
+  date_end = ""
+  description = "BIOSIG 2020 SI on Trustworthiness of Person Authentication"
 
 [[item]]
   organization = "Datenschutz und Datensicherheit"
