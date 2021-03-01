@@ -1,6 +1,5 @@
 ---
-title: Selfie Periocular Verification using an Efficient Super-Resolution Approach\",
-  Pattern Recognition
+title: Selfie Periocular Verification using an Efficient Super-Resolution Approach
 date: '2021-01-01'
 publishDate: '2021-03-01T10:15:03.656084Z'
 authors:
