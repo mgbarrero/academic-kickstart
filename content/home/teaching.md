@@ -24,23 +24,23 @@ date_format = "Jan 2006"
   url = "https://moodle.hs-ansbach.de/course/view.php?id=1864"
   date_start = "2020-10-10"
   date_end = ""
-  description = "1. Semester Bachelor Datenschutz und IT-Sicherheit, SS 2020"
+  description = "1. Semester Bachelor Datenschutz und IT-Sicherheit, since SS 2020"
   
 [[item]]
   organization = "Hochschule Ansbach"
   title = "Kryptographie (Eng. Cryptography)"
-  url = "https://moodle.hs-ansbach.de/course/view.php?id=1529"
+  url = "https://moodle.hs-ansbach.de/course/view.php?id=2266"
   date_start = "2020-03-15"
   date_end = ""
-  description = "2. Semester Bachelor Datenschutz und IT-Sicherheit, SS 2020"
+  description = "2. Semester Bachelor Datenschutz und IT-Sicherheit, since SS 2020"
   
 [[item]]
   organization = "Hochschule Ansbach"
   title = "Technische und organisatorische Datenschutzmaßnahmen (Eng. Technical and organisatorial privacy measures)"
-  url = "https://moodle.hs-ansbach.de/course/view.php?id=1530"
+  url = "https://moodle.hs-ansbach.de/course/view.php?id=2270"
   date_start = "2020-03-15"
   date_end = ""
-  description = "2. Semester Bachelor Datenschutz und IT-Sicherheit, SS 2020"
+  description = "2. Semester Bachelor Datenschutz und IT-Sicherheit, since SS 2020"
   
 [[item]]
   organization = "Hochschule Ansbach"
@@ -48,7 +48,23 @@ date_format = "Jan 2006"
   url = "https://moodle.hs-ansbach.de/course/view.php?id=1865"
   date_start = "2020-10-10"
   date_end = ""
-  description = "3. Semester Bachelor Datenschutz und IT-Sicherheit, SS 2020"
+  description = "3. Semester Bachelor Datenschutz und IT-Sicherheit, since SS 2020"
+  
+[[item]]
+  organization = "Hochschule Ansbach"
+  title = "Biometric Recognition"
+  url = "https://moodle.hs-ansbach.de/course/view.php?id=2267"
+  date_start = "2021-03-15"
+  date_end = ""
+  description = "4. Semester Bachelor Datenschutz und IT-Sicherheit, since SS 2020"
+  
+[[item]]
+  organization = "Hochschule Ansbach"
+  title = "Deep Learning"
+  url = "https://moodle.hs-ansbach.de/course/view.php?id=2269"
+  date_start = "2021-03-15"
+  date_end = ""
+  description = "4. Semester Bachelor Datenschutz und IT-Sicherheit, since SS 2020"
   
 [[item]]
   organization = "Hochschule Darmstadt"
