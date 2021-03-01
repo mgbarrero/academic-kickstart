@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   url = "https://moodle.hs-ansbach.de/course/view.php?id=1864"
   date_start = "2020-10-10"
   date_end = ""
-  description = "1. Semester Bachelor Datenschutz und IT-Sicherheit, since SS 2020"
+  description = "1. Semester Bachelor Datenschutz und IT-Sicherheit, since WS 2020/21"
   
 [[item]]
   organization = "Hochschule Ansbach"
@@ -48,7 +48,7 @@ date_format = "Jan 2006"
   url = "https://moodle.hs-ansbach.de/course/view.php?id=1865"
   date_start = "2020-10-10"
   date_end = ""
-  description = "3. Semester Bachelor Datenschutz und IT-Sicherheit, since SS 2020"
+  description = "3. Semester Bachelor Datenschutz und IT-Sicherheit, since WS 2020/21"
   
 [[item]]
   organization = "Hochschule Ansbach"
@@ -56,7 +56,7 @@ date_format = "Jan 2006"
   url = "https://moodle.hs-ansbach.de/course/view.php?id=2267"
   date_start = "2021-03-15"
   date_end = ""
-  description = "4. Semester Bachelor Datenschutz und IT-Sicherheit, since SS 2020"
+  description = "4. Semester Bachelor Datenschutz und IT-Sicherheit, since SS 2021"
   
 [[item]]
   organization = "Hochschule Ansbach"
@@ -64,7 +64,7 @@ date_format = "Jan 2006"
   url = "https://moodle.hs-ansbach.de/course/view.php?id=2269"
   date_start = "2021-03-15"
   date_end = ""
-  description = "4. Semester Bachelor Datenschutz und IT-Sicherheit, since SS 2020"
+  description = "4. Semester Bachelor Datenschutz und IT-Sicherheit, since SS 2021"
   
 [[item]]
   organization = "Hochschule Darmstadt"
