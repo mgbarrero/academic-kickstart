@@ -2,7 +2,6 @@
 title: Hill-Climbing Attack Based on the Uphill Simplex Algorithm and its Application
   to Signature Verification
 date: '2011-03-01'
-draft: true
 publishDate: '2021-03-01T10:14:59.961811Z'
 authors:
 - M. Gomez-Barrero

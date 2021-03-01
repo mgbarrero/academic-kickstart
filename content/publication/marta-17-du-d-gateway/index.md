@@ -1,7 +1,6 @@
 ---
 title: Biometrie und Datenschutz
 date: '2017-07-01'
-draft: true
 publishDate: '2021-03-01T10:15:01.723893Z'
 authors:
 - M. Gomez-Barrero

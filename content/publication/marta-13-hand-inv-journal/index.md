@@ -1,7 +1,6 @@
 ---
 title: A Novel Hand Reconstruction Approach and its Application to Vulnerability Assessment
 date: '2014-06-01'
-draft: true
 publishDate: '2021-03-01T10:15:00.143646Z'
 authors:
 - M. Gomez-Barrero

@@ -2,7 +2,6 @@
 title: On-Line Signature Recognition Through the Combination of Real Dynamic Data
   and Synthetically Generated Static Data
 date: '2015-09-01'
-draft: true
 publishDate: '2021-03-01T10:15:01.039719Z'
 authors:
 - Javier Galbally

@@ -1,7 +1,6 @@
 ---
 title: 'Face Morphing Attacks: What needs to be done'
 date: '2019-01-01'
-draft: true
 publishDate: '2021-03-01T10:15:03.460079Z'
 authors:
 - C. Busch

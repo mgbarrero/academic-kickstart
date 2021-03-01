@@ -2,7 +2,6 @@
 title: 'Standardisierung von Biometric Template Protection: Aktueller Status und Bewertung
   der Verkn\"upfbarkeit'
 date: '2017-07-01'
-draft: true
 publishDate: '2021-03-01T10:15:01.578718Z'
 authors:
 - M. Gomez-Barrero

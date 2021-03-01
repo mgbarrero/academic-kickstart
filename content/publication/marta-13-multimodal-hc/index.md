@@ -2,7 +2,6 @@
 title: Efficient software attack to multimodal biometric systems and its application
   to face and iris fusion
 date: '2014-01-01'
-draft: true
 publishDate: '2021-03-01T10:14:59.815681Z'
 authors:
 - M. Gomez-Barrero

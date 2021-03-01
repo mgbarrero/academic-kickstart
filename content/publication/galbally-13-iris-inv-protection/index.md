@@ -1,7 +1,6 @@
 ---
 title: Securing iris recognition systems against masquerade attacks
 date: '2013-05-01'
-draft: true
 publishDate: '2021-03-01T10:15:00.991960Z'
 authors:
 - J. Galbally

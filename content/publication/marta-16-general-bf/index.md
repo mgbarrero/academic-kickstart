@@ -1,7 +1,6 @@
 ---
 title: Multi-Biometric Template Protection Based on Bloom Filters
 date: '2018-07-01'
-draft: true
 publishDate: '2021-03-01T10:15:00.639868Z'
 authors:
 - M. Gomez-Barrero

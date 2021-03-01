@@ -2,7 +2,6 @@
 title: Towards Fingerprint Presentation Attack Detection Based on Short Wave Infrared
   Imaging and Spectral Signatures
 date: '2018-09-01'
-draft: true
 publishDate: '2021-03-01T10:15:02.080306Z'
 authors:
 - M. Gomez-Barrero

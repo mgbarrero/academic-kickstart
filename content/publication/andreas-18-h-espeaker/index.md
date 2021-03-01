@@ -2,7 +2,6 @@
 title: 'Homomorphic Encryption for Speaker Recognition: Protection of Biometric Templates
   and Vendor Model Parameters'
 date: '2018-06-01'
-draft: true
 publishDate: '2021-03-01T10:15:02.271286Z'
 authors:
 - A. Nautsch

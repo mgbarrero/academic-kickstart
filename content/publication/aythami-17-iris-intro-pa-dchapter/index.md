@@ -1,7 +1,6 @@
 ---
 title: An Introduction to Iris Presentation Attack Detection
 date: '2018-08-01'
-draft: true
 publishDate: '2021-03-01T10:15:01.676446Z'
 authors:
 - A. Morales

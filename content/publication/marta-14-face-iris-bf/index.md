@@ -2,7 +2,6 @@
 title: 'Towards Cancelable Multi-Biometrics based on Adaptive Bloom Filters: A Case
   Study on Feature Level Fusion of Face and Iris'
 date: '2015-03-01'
-draft: true
 publishDate: '2021-03-01T10:15:01.235812Z'
 authors:
 - C. Rathgeb

@@ -2,7 +2,6 @@
 title: 'Multi-Modal Fingerprint Presentation Attack Detection: Looking at the Surface
   and the Inside'
 date: '2019-01-01'
-draft: true
 publishDate: '2021-03-01T10:15:02.417964Z'
 authors:
 - M. Gomez-Barrero

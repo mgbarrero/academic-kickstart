@@ -1,7 +1,6 @@
 ---
 title: 'Biometric Presentation Attack Detection: Beyond the Visible Spectrum'
 date: '2019-12-01'
-draft: true
 publishDate: '2021-03-01T10:15:02.570573Z'
 authors:
 - R. Tolosana

@@ -1,7 +1,6 @@
 ---
 title: Fingerprint Presentation Attack Detection Method based on a Bag-of-Words Approach
 date: '2017-01-01'
-draft: true
 publishDate: '2021-03-01T10:15:01.824381Z'
 authors:
 - L. J. Gonzalez-Soler

@@ -1,7 +1,6 @@
 ---
 title: Keystroke Biometrics Ongoing Competition
 date: '2016-11-01'
-draft: true
 publishDate: '2021-03-01T10:15:01.382750Z'
 authors:
 - A. Morales

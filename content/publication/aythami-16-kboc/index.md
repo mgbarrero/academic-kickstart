@@ -1,7 +1,6 @@
 ---
 title: 'KBOC: Keystroke Biometrics OnGoing Competition'
 date: '2016-09-01'
-draft: true
 publishDate: '2021-03-01T10:15:01.186790Z'
 authors:
 - A. Morales

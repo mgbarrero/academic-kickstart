@@ -2,7 +2,6 @@
 title: 'Biometric Systems under Morphing Attacks: Assessment of Morphing Techniques
   and Vulnerability Reporting'
 date: '2017-01-01'
-draft: true
 publishDate: '2021-03-01T10:15:01.773738Z'
 authors:
 - U. Scherhag

@@ -2,7 +2,6 @@
 title: Multi-Biometric Template Protection - A Security Analysis of Binarized Statistical
   Features for Bloom Filters on Smartphones
 date: '2016-12-01'
-draft: true
 publishDate: '2021-03-01T10:15:01.334235Z'
 authors:
 - Martin Stokkenes

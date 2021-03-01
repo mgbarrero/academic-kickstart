@@ -2,7 +2,6 @@
 title: Generation of Enhanced Synthetic Off-line Signatures Based on Real On-line
   Data
 date: '2014-09-01'
-draft: true
 publishDate: '2021-03-01T10:15:00.737973Z'
 authors:
 - M. Diaz-Cabrera

@@ -1,7 +1,6 @@
 ---
 title: Preserving Privacy in Speaker and Speech Characterisation
 date: '2019-01-01'
-draft: true
 publishDate: '2021-03-01T10:15:03.026387Z'
 authors:
 - A. Nautsch

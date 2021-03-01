@@ -2,7 +2,6 @@
 title: Realistic Synthetic Off-Line Signature Generation Based on Synthetic On-Line
   Data
 date: '2013-10-01'
-draft: true
 publishDate: '2021-03-01T10:15:00.795773Z'
 authors:
 - M. A. Ferrer

@@ -1,7 +1,6 @@
 ---
 title: Detecting morphed face images using facial landmarks
 date: '2018-07-01'
-draft: true
 publishDate: '2021-03-01T10:15:01.628574Z'
 authors:
 - U. Scherhag

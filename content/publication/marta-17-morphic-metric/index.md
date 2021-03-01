@@ -1,7 +1,6 @@
 ---
 title: Is Your Biometric System Robust to Morphing Attacks?
 date: '2017-04-01'
-draft: true
 publishDate: '2021-03-01T10:15:01.430308Z'
 authors:
 - M. Gomez-Barrero

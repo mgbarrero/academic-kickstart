@@ -1,7 +1,6 @@
 ---
 title: Morphing Attack Detection - Database, Evaluation platform and Benchmarking
 date: '2020-01-01'
-draft: true
 publishDate: '2021-03-01T10:15:03.313869Z'
 authors:
 - K. Raja

@@ -2,7 +2,6 @@
 title: Security Evaluation of i-Vector Based Speaker Verification Systems Against
   Hill-Climbing Attacks
 date: '2013-08-01'
-draft: true
 publishDate: '2021-03-01T10:15:00.446224Z'
 authors:
 - M. Gomez-Barrero

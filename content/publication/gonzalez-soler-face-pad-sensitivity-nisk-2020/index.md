@@ -2,7 +2,6 @@
 title: Evaluating the Sensitivity of Face Presentation Attack Detection Techniques
   to Images of Varying Resolutions
 date: '2020-01-01'
-draft: true
 publishDate: '2021-03-01T10:15:02.772171Z'
 authors:
 - L. J. Gonzalez-Soler

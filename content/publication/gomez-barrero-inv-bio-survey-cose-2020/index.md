@@ -1,7 +1,6 @@
 ---
 title: 'Reversing the Irreversible: A Survey on Inverse Biometrics'
 date: '2020-03-01'
-draft: true
 publishDate: '2021-03-01T10:15:02.819391Z'
 authors:
 - M. Gomez-Barrero

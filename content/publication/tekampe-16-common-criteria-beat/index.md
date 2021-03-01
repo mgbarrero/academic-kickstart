@@ -1,7 +1,6 @@
 ---
 title: 'D6.5: Towards the Common Criteria evaluations of biometric systems'
 date: '2016-01-01'
-draft: true
 publishDate: '2021-03-01T10:15:02.669510Z'
 authors:
 - N. Tekampe

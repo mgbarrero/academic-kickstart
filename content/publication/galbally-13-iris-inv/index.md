@@ -2,7 +2,6 @@
 title: 'Iris image reconstruction from binary templates: An efficient probabilistic
   approach based on genetic algorithms'
 date: '2013-10-01'
-draft: true
 publishDate: '2021-03-01T10:15:01.087999Z'
 authors:
 - J. Galbally

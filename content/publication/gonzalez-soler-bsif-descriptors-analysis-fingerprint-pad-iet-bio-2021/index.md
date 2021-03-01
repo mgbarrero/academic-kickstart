@@ -2,7 +2,6 @@
 title: 'Local Feature Encoding for Unknown Presentation Attack Detection: An Analysis
   of Different Local Feature Descriptors'
 date: '2021-01-01'
-draft: true
 publishDate: '2021-03-01T10:15:03.411803Z'
 authors:
 - L. J. Gonzalez-Soler

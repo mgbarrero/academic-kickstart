@@ -1,7 +1,6 @@
 ---
 title: 'Variations of Handwritten Signatures with Time: a Sigma-Lognormal Analysis'
 date: '2013-06-01'
-draft: true
 publishDate: '2021-03-01T10:15:00.287579Z'
 authors:
 - M. Gomez-Barrero
