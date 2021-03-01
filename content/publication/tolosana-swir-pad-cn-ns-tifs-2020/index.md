@@ -12,5 +12,8 @@ publication_types:
 abstract: ''
 featured: false
 publication: '*IEEE Trans. on Information Forensics and Security*'
+
+links:
+url_pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8794818
 ---
 

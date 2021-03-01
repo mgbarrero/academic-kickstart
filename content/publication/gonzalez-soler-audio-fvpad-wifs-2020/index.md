@@ -14,5 +14,8 @@ publication_types:
 abstract: ''
 featured: false
 publication: '*Proc. Int. Workshop on Information Forensics and Security (WIFS)*'
+
+links:
+url_pdf: https://arxiv.org/abs/2010.04038
 ---
 

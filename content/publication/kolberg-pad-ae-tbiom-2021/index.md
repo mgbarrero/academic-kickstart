@@ -13,5 +13,8 @@ publication_types:
 abstract: ''
 featured: false
 publication: '*IEEE Trans. on Biometrics, Behavior, and Identity Science*'
+
+links:
+url_pdf: https://arxiv.org/pdf/2008.07989.pdf
 ---
 

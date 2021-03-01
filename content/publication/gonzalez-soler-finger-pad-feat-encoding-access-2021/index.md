@@ -15,5 +15,8 @@ publication_types:
 abstract: ''
 featured: false
 publication: '*IEEE Access*'
+
+links:
+url_pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9312046
 ---
 

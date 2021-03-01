@@ -13,5 +13,8 @@ publication_types:
 abstract: ''
 featured: false
 publication: '*arXiv Preprint*'
+
+links:
+url_pdf: https://arxiv.org/pdf/2102.08449.pdf
 ---
 
