@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   url = "https://wifs2021.lirmm.fr/"
   date_start = "2021-12-10"
   date_end = ""
-  description = "Contribution: A. Ibsen, L. J. Gonzalez-Soler, C. Rathgeb, P. Drozdowski, M. Gomez-Barrero, and C. Busch, ''Differential Anomaly Detection for Facial Images''"
+  description = "Contribution: M. Ibsen, L. J. Gonzalez-Soler, C. Rathgeb, P. Drozdowski, M. Gomez-Barrero, and C. Busch, ''Differential Anomaly Detection for Facial Images''"
   
 [[item]]
   organization = "ISCA/spLC"
