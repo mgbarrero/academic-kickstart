@@ -19,6 +19,14 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
+  organization = "IEEE"
+  title = "Best Paper Award at WIFS 2021"
+  url = "https://wifs2021.lirmm.fr/"
+  date_start = "2021-12-10"
+  date_end = ""
+  description = "Contribution: A. Ibsen, L. J. Gonzalez-Soler, C. Rathgeb, P. Drozdowski, M. Gomez-Barrero, and C. Busch, ''Differential Anomaly Detection for Facial Images''"
+  
+[[item]]
   organization = "ISCA/spLC"
   title = "Best Paper Award at Odyssey 2018"
   url = "http://www.odyssey2018.org/"
