@@ -23,9 +23,11 @@ bio: My current research focuses on security and privacy evaluations of biometri
 interests:
 - Biometrics
 - Machine Learning
-- Template Protection
+- Data Science
+- Explainable AI
+- Biometric Template Protection
 - Security and Privacy Evaluation of Biometric Systems
-- Presentation Attack Detection
+- Biometric Presentation Attack Detection
 
 education:
   courses:
