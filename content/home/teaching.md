@@ -65,6 +65,14 @@ date_format = "Jan 2006"
   date_start = "2021-03-15"
   date_end = ""
   description = "4. Semester Bachelor Datenschutz und IT-Sicherheit, since SS 2021"
+
+[[item]]
+  organization = "Hochschule Ansbach"
+  title = "Security and Privacy with Noisy Data"
+  url = "https://moodle.hs-ansbach.de/course/view.php?id=2854"
+  date_start = "2021-10-01"
+  date_end = ""
+  description = "5. Semester Bachelor Datenschutz und IT-Sicherheit, since WS 2021/22"
   
 [[item]]
   organization = "Hochschule Darmstadt"
