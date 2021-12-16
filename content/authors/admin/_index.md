@@ -22,7 +22,7 @@ bio: I am a Professor for IT-Security and technical data privacy at the Hochschu
 
 interests:
 - Biometrics
-- Machine Learning
+- Machine Learning & Deep Learning
 - Data Science
 - Explainable AI
 - Biometric Template Protection
@@ -51,7 +51,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:marta.gomez-barrero@hs-ansbach.de #'#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: mailto:martagomezbarrero@gmail.com #'#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=n6UNbE8AAAAJ&hl=es
