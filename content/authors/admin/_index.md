@@ -18,7 +18,7 @@ organizations:
   link: "https://www.hs-ansbach.de/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My current research focuses on security and privacy evaluations of biometric systems, Presentation Attack Detection (PAD) methodologies and biometric template protection schemes.
+bio: I am a Professor for IT-Security and technical data privacy at the Hochschule Ansbach, in Germany.
 
 interests:
 - Biometrics
@@ -81,4 +81,4 @@ email: ""
 #- Visitors
 ---
 
-I am a Professor for IT-Security and technical data privacy at the Hochschule Ansbach, in Germany. Between 2016 and 2020, I was a postdoctoral researcher at the National Research Center for Applied Cybersecurity (ATHENE) - Hochschule Darmstadt, Germany. Before that, I received my MSc degrees in Computer Science and Mathematics (2011), and my PhD degree in Electrical Engineering (2016), all from Universidad Autonoma de Madrid, Spain. I am a member of the European Association for Biometrics (EAB) and Co-Chair of the EAB Academia Special Interest Group. I am also General Chair of the BIOSIG Conference, delegate of the German Standardisation Body DIN for Biometrics, and Associated Editor of the EURASIP Journal on Information Security. My current research focuses on security and privacy evaluations of biometric systems, Presentation Attack Detection (PAD) methodologies, and biometric template protection (BTP) schemes. I have also received a number of distinctions, including: EAB European Biometric Industry Award 2015, Best Ph.D. Thesis Award by Universidad Autonoma de Madrid 2015/16, Siew-Sngiem Best Paper Award at ICB 2015, Archimedes Award for young researches from Spanish MECD and Best Poster Award at ICB 2013.
+I am a Professor for IT-Security and technical data privacy at the Hochschule Ansbach, in Germany. Between 2016 and 2020, I was a postdoctoral researcher at the National Research Center for Applied Cybersecurity (ATHENE) - Hochschule Darmstadt, Germany. Before that, I received my MSc degrees in Computer Science and Mathematics (2011), and my PhD degree in Electrical Engineering (2016), all from Universidad Autonoma de Madrid, Spain. I am a member of the European Association for Biometrics (EAB) and Co-Chair of the EAB Academia Special Interest Group. I am also General Chair of the BIOSIG Conference, delegate of the German Standardisation Body DIN for Biometrics, and Associated Editor of the EURASIP Journal on Information Security. My current research focuses on security and privacy evaluations of biometric systems, Presentation Attack Detection (PAD) methodologies, and biometric template protection (BTP) schemes.
