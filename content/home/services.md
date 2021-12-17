@@ -26,7 +26,7 @@ date_format = "Jan 2006"
   description = ""
   
 [[item]]
-  organization = "WACV 2021 Workshop on Explainable and Interpretable Artificial Intelligence for Biometrics"
+  organization = "WACV 2021 & 2022 Workshop on Explainable and Interpretable Artificial Intelligence for Biometrics"
   title = "Sponsor Chair"
   date_start = "2020-09-20"
   date_end = ""
@@ -80,7 +80,7 @@ date_format = "Jan 2006"
   title = "Special Issue Editor"
   date_start = "2020-09-18"
   date_end = ""
-  description = "BIOSIG 2020 SI on Trustworthiness of Person Authentication"
+  description = "BIOSIG 2020 SI on Trustworthiness of Person Authentication, BIOSIG 2021 SI on Efficient, Reliable, and Privacy-Friendly Biometrics "
 
 [[item]]
   organization = "Datenschutz und Datensicherheit"
@@ -98,7 +98,7 @@ date_format = "Jan 2006"
 
 [[item]]
   organization = "EAB - European Association for Biometrics"
-  title = "Member of the EAB"
+  title = "Member of the EAB, Co-Chair of the Academia Special Interest Group"
   url = "http://www.eab.org/"
   date_start = "2015-09-30"
   date_end = ""
