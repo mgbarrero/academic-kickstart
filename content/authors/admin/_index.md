@@ -25,9 +25,7 @@ interests:
 - Machine Learning & Deep Learning
 - Data Science
 - Explainable AI
-- Biometric Template Protection
-- Security and Privacy Evaluation of Biometric Systems
-- Biometric Presentation Attack Detection
+- Security and Privacy Evaluation of Biometric Systems (BTP, PAD)
 
 education:
   courses:
