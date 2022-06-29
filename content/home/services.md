@@ -108,6 +108,20 @@ date_format = "Jan 2006"
   - IET Biometrics: BIOSIG 2021 SI on Efficient, Reliable, and Privacy-Friendly Biometrics
   - IET Biometrics: BIOSIG 2020 SI on Trustworthiness of Person Authentication
   - Datenschutz und Datensiherheit: Biometrie - Sicherheits- und DS-Konzepte (Eng. Biometrics - Security and data privacy aspects)"""
+
+[[item]]
+  organization = "Int. Joint Conf. on Biometrics (IJCB)"
+  title = "Tutorial Chair"
+  date_start = "2022-04-01"
+  date_end = "2022-10-15"
+  description = ""
+  
+[[item]]
+  organization = "Int. Joint Conf. on Biometrics (IJCB)"
+  title = "Area Chair"
+  date_start = "2021-02-01"
+  date_end = ""
+  description = ""
   
 
 +++
