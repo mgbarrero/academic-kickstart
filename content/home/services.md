@@ -69,9 +69,9 @@ date_format = "Jan 2006"
   description = ""
   
 [[item]]
-  organization = ""
+  organization = "JRC Indexed Journals"
   title = "Special Issue Editor"
-  date_start = "2016"
+  date_start = "2016-01-01"
   date_end = ""
   description = "Pattern Recognition: SI on Masked Face Recognition and Touchless Biometrics at the time of COVID-19
    IET Biometrics: BIOSIG 2021 SI on Efficient, Reliable, and Privacy-Friendly Biometrics
@@ -101,7 +101,7 @@ date_format = "Jan 2006"
   date_end = ""
   description = ""
   
-  [[item]]
+[[item]]
   organization = "IAPR TC4: Technical Committee on Biometrics, International Association for Pattern Recognition"
   title = "Member of IAPR TC4 Conference Committee"
   date_start = "2022-01-01"
