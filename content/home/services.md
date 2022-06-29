@@ -69,25 +69,14 @@ date_format = "Jan 2006"
   description = ""
   
 [[item]]
-  organization = "Pattern Recognition"
+  organization = ""
   title = "Special Issue Editor"
-  date_start = "2020-09-01"
+  date_start = "2016"
   date_end = ""
-  description = "SI on Masked Face Recognition and Touchless Biometrics at the time of COVID-19"
-  
-[[item]]
-  organization = "IET Biometrics"
-  title = "Special Issue Editor"
-  date_start = "2020-09-18"
-  date_end = ""
-  description = "BIOSIG 2020 SI on Trustworthiness of Person Authentication, BIOSIG 2021 SI on Efficient, Reliable, and Privacy-Friendly Biometrics "
-
-[[item]]
-  organization = "Datenschutz und Datensicherheit"
-  title = "Special Issue Editor"
-  date_start = "2017-01-01"
-  date_end = "2017-01-01"
-  description = "Schwerpunkt: Biometrie - Sicherheits- und DS-Konzepte (Eng. Biometrics - Security and data privacy aspects)"
+  description = "Pattern Recognition: SI on Masked Face Recognition and Touchless Biometrics at the time of COVID-19\n
+   IET Biometrics: BIOSIG 2021 SI on Efficient, Reliable, and Privacy-Friendly Biometrics\n
+   IET Biometrics: BIOSIG 2020 SI on Trustworthiness of Person Authentication, BIOSIG 2021 SI on Efficient, Reliable, and Privacy-Friendly Biometrics\n
+   Datenschutz und Datensiherheit: Biometrie - Sicherheits- und DS-Konzepte (Eng. Biometrics - Security and data privacy aspects)"
   
 [[item]]
   organization = "JRC Indexed Journals"
@@ -109,6 +98,13 @@ date_format = "Jan 2006"
   title = "Member of DIN"
   url = "DIN e.V. – German Standardisation Institute: ISO/IEC JTC 1/SC 37 – Biometrics"
   date_start = "2016-06-30"
+  date_end = ""
+  description = ""
+  
+  [[item]]
+  organization = "IAPR TC4: Technical Committee on Biometrics, International Association for Pattern Recognition"
+  title = "Member of IAPR TC4 Conference Committee"
+  date_start = "2022-01-01"
   date_end = ""
   description = ""
 +++
