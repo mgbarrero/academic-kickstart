@@ -73,8 +73,8 @@ date_format = "Jan 2006"
   title = "Special Issue Editor"
   date_start = "2016"
   date_end = ""
-  description = "Pattern Recognition: SI on Masked Face Recognition and Touchless Biometrics at the time of COVID-19\n
-   IET Biometrics: BIOSIG 2021 SI on Efficient, Reliable, and Privacy-Friendly Biometrics\n
+  description = "Pattern Recognition: SI on Masked Face Recognition and Touchless Biometrics at the time of COVID-19
+   IET Biometrics: BIOSIG 2021 SI on Efficient, Reliable, and Privacy-Friendly Biometrics
    IET Biometrics: BIOSIG 2020 SI on Trustworthiness of Person Authentication, BIOSIG 2021 SI on Efficient, Reliable, and Privacy-Friendly Biometrics\n
    Datenschutz und Datensiherheit: Biometrie - Sicherheits- und DS-Konzepte (Eng. Biometrics - Security and data privacy aspects)"
   
