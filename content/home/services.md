@@ -19,7 +19,7 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "BIOSIG 2021 - Present"
+  organization = "Int. Conf. of the Biometrics Special Interest Group (BIOSIG)"
   title = "General Chair"
   date_start = "2020-09-15"
   date_end = ""
@@ -97,6 +97,17 @@ date_format = "Jan 2006"
   date_start = "2022-01-01"
   date_end = ""
   description = ""
+  
+[[item]]
+  organization = "JRC Indexed Journals"
+  title = "Special Issue Editor"
+  date_start = "2016-01-01"
+  date_end = ""
+  description = "
+  - Pattern Recognition: SI on Masked Face Recognition and Touchless Biometrics at the time of COVID-19
+  - IET Biometrics: BIOSIG 2021 SI on Efficient, Reliable, and Privacy-Friendly Biometrics
+  - IET Biometrics: BIOSIG 2020 SI on Trustworthiness of Person Authentication, BIOSIG 2021 SI on Efficient, Reliable, and Privacy-Friendly Biometrics
+  - Datenschutz und Datensiherheit: Biometrie - Sicherheits- und DS-Konzepte (Eng. Biometrics - Security and data privacy aspects)"
   
 
 +++
