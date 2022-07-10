@@ -93,8 +93,15 @@ date_format = "Jan 2006"
   
 [[item]]
   organization = "IAPR TC4: Technical Committee on Biometrics, International Association for Pattern Recognition"
-  title = "Member of IAPR TC4 Conference Committee"
+  title = "Member of the Conference Committee"
   date_start = "2022-01-01"
+  date_end = ""
+  description = ""
+  
+[[item]]
+  organization = "IEEE Biometrics Council"
+  title = "Member of Security and Privacy Technical Committee"
+  date_start = "2022-07-01"
   date_end = ""
   description = ""
   
