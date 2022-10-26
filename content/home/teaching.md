@@ -39,16 +39,16 @@ date_format = "Jan 2006"
   title = "Technische und organisatorische Datenschutzmaßnahmen (Eng. Technical and organisatorial privacy measures)"
   url = "https://moodle.hs-ansbach.de/course/view.php?id=2270"
   date_start = "2020-03-15"
-  date_end = ""
-  description = "2. Semester Bachelor Datenschutz und IT-Sicherheit, since SS 2020"
+  date_end = "2021-07-30"
+  description = "2. Semester Bachelor Datenschutz und IT-Sicherheit, SS 2020 and 2021"
   
 [[item]]
   organization = "Hochschule Ansbach"
   title = "Privacy Engineering"
   url = "https://moodle.hs-ansbach.de/course/view.php?id=1865"
-  date_start = "2020-10-10"
-  date_end = ""
-  description = "3. Semester Bachelor Datenschutz und IT-Sicherheit, since WS 2020/21"
+  date_start = "2020-10-01"
+  date_end = "2022-02-01"
+  description = "3. Semester Bachelor Datenschutz und IT-Sicherheit, WS 2020/21 and 2021/22"
   
 [[item]]
   organization = "Hochschule Ansbach"
