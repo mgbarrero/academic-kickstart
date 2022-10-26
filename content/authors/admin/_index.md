@@ -18,12 +18,12 @@ organizations:
   link: "https://www.hs-ansbach.de/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a Professor for IT-Security and technical data privacy at the Hochschule Ansbach, in Germany.
+bio: I am a researh Professor for IT-Security and biometrics at the Hochschule Ansbach, in Germany.
 
 interests:
 - Biometrics
+- Pattern Recognition
 - Machine Learning & Deep Learning
-- Data Science
 - Explainable AI
 - Security and Privacy Evaluation of Biometric Systems (BTP, PAD)
 
@@ -79,4 +79,6 @@ email: ""
 #- Visitors
 ---
 
-I am a Professor for IT-Security and technical data privacy at the Hochschule Ansbach, in Germany. Between 2016 and 2020, I was a postdoctoral researcher at the National Research Center for Applied Cybersecurity (ATHENE) - Hochschule Darmstadt, Germany. Before that, I received my MSc degrees in Computer Science and Mathematics (2011), and my PhD degree in Electrical Engineering (2016), all from Universidad Autonoma de Madrid, Spain. I am a member of the European Association for Biometrics (EAB) and Co-Chair of the EAB Academia Special Interest Group. I am also General Chair of the BIOSIG Conference, delegate of the German Standardisation institute DIN for the ISO/IEC JTC 1/SC 37 – Biometrics, as well as Associate Editor of the EURASIP Journal on Information Security.
+I am a Research Professor for IT-Security with a focus on biometric recognition at the Hochschule Ansbach, Germany. Between 2016 and 2020, I was a postdoctoral researcher at the National Research Center for Applied Cybersecurity (ATHENE) - Hochschule Darmstadt, Germany. Before that, I received my MSc degrees in Computer Science and Mathematics (2011), and my PhD degree in Electrical Engineering (2016), all from Universidad Autonoma de Madrid, Spain. 
+
+I am general chair of the BIOSIG conference and has served for several conferences (e.g., IJCB, IWBF, EUSIPCO) and journals (e.g., IEEE TIFS, IEEE TPAMI, IEEE TBIOM, IET BMT, Elsevier PR). Further, I am Co-Chair of the European Association for Biometrics Academic SIG, associate editor for the EURASIP Journals on Information Security and on Image and Video Processing, Member of the IARP TC4 Conference Committee and the IEEE Biometrics Council Security and Privacy Technical Committee, and represent the German Institute for Standardisation (DIN) in ISO/IEC SC37 JTC1 SC37 on biometrics. I currently coordinate the ANR-DFG project RESPECT and was actively involved in the EU projects SOTAMD, BATL, and TABULA RASA. 
