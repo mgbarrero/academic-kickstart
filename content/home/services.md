@@ -26,6 +26,13 @@ date_format = "Jan 2006"
   description = ""
   
 [[item]]
+  organization = "Int. Joint Conf. on Biometrics (IJCB)"
+  title = "Publication Chair"
+  date_start = "2022-10-15"
+  date_end = "2023-09-30"
+  description = ""
+  
+[[item]]
   organization = "WACV 2021 & 2022 Workshop on Explainable and Interpretable Artificial Intelligence for Biometrics"
   title = "Sponsor Chair"
   date_start = "2020-09-20"
@@ -104,6 +111,13 @@ date_format = "Jan 2006"
   date_start = "2022-07-01"
   date_end = ""
   description = ""
+ 
+[[item]]
+  organization = "IEEE Signal Processing Society"
+  title = "Member of the IEEE Information Forensics and Security Technical Committee"
+  date_start = "2023-01-01"
+  date_end = "2025-12-31"
+  description = ""
   
 [[item]]
   organization = "JRC Indexed Journals"
@@ -126,8 +140,8 @@ date_format = "Jan 2006"
 [[item]]
   organization = "Int. Joint Conf. on Biometrics (IJCB)"
   title = "Area Chair"
-  date_start = "2021-02-01"
-  date_end = ""
+  date_start = "2022-04-01"
+  date_end = "2022-10-15"
   description = ""
   
 
