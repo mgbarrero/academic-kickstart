@@ -1,9 +1,9 @@
 ---
-title: Biometrie - Herausforderungen fuer Sicherheit und Datenschutz
-event: Nurnberg Digital Festival
+title: Biometrie - Herausforderungen für Sicherheit und Datenschutz
+event: Nürnberg Digital Festival
 event_url: https://ankit.hs-ansbach.de/
 
-location: ANkiT, Ansbach, Germany
+location: AN[ki]T, Ansbach, Germany
 #address:
 #  street: 450 Serra Mall
 #  city: Stanford
