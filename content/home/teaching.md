@@ -19,6 +19,13 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
+  organization = "Vietnamese German Univeristy (VGU)"
+  title = "Biometric Systems"
+  date_start = "2023-03-01"
+  date_end = ""
+  description = "2. Semester Master on IT-Security, since SS 2023"
+  
+[[item]]
   organization = "Hochschule Ansbach"
   title = "Einführung in die IT-Sicherheit (Eng. Introduction to IT-Security)"
   url = "https://moodle.hs-ansbach.de/course/view.php?id=1864"
@@ -71,8 +78,8 @@ date_format = "Jan 2006"
   title = "Security and Privacy with Noisy Data"
   url = "https://moodle.hs-ansbach.de/course/view.php?id=2854"
   date_start = "2021-10-01"
-  date_end = ""
-  description = "5. Semester Bachelor Datenschutz und IT-Sicherheit, since WS 2021/22"
+  date_end = "2022-01-31"
+  description = "5. Semester Bachelor Datenschutz und IT-Sicherheit, WS 2021/22"
   
 [[item]]
   organization = "Hochschule Darmstadt"
