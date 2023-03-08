@@ -3,7 +3,7 @@ title: Biometrie: Herausforderungen für Sicherheit und Datenschutz
 event: Nürnberg DIGITAL FESTIVAL
 # event_url: https://eab.org/award/cfp.html
 
-location: AN[ki]T, Ansbach
+location: ANkiT, Ansbach, Germany
 #address:
 #  street: 450 Serra Mall
 #  city: Stanford
