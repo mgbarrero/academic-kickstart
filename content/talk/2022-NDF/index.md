@@ -1,5 +1,5 @@
 ---
-title: Biometrie: Herausforderungen fuer Sicherheit und Datenschutz
+title: Biometrie - Herausforderungen fuer Sicherheit und Datenschutz
 event: Nurnberg Digital Festival
 event_url: https://ankit.hs-ansbach.de/
 
