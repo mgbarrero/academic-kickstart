@@ -1,7 +1,7 @@
 ---
 title: Fully Unlinkable and Irreversible Template Protection Based on Bloom Filters
 event: EAB PhD Awards
-event_url: https://ankit.hs-ansbach.de/
+event_url: https://eab.org/award/reports/report2015.html?ts=1678281357873
 
 location: Fraunhofer IGD, Darmstadt, Germany
 #address:
