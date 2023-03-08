@@ -1,7 +1,7 @@
 ---
 title: Biometrie: Herausforderungen fuer Sicherheit und Datenschutz
 event: Nurnberg Digital Festival
-# event_url: https://eab.org/award/cfp.html
+event_url: https://ankit.hs-ansbach.de/
 
 location: ANkiT, Ansbach, Germany
 #address:
