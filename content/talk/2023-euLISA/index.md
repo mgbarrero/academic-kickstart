@@ -3,7 +3,7 @@ title: Encryption for dummies
 event: euLISA Lunch talk
 event_url: https://www.eulisa.europa.eu/
 
-location: NTNU Gjøvik, Norway
+location: Online
 #address:
 #  street: 450 Serra Mall
 #  city: Stanford
