@@ -1,6 +1,6 @@
 ---
 title: Biometrie: Herausforderungen fuer Sicherheit und Datenschutz
-event: Nürnberg DIGITAL FESTIVAL
+event: Nurnberg DIGITAL FESTIVAL
 # event_url: https://eab.org/award/cfp.html
 
 location: AN[ki]T, Ansbach, Germany
