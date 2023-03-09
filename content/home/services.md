@@ -21,7 +21,7 @@ date_format = "Jan 2006"
 [[item]]
   organization = ""
   title = "Conference Chair"
-  date_start = ""
+  date_start = "2018-01-01"
   date_end = ""
   description = """
   - General Chair IEEE BIOSIG Conference (since 2020)
