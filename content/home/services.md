@@ -19,64 +19,64 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Int. Conf. of the Biometrics Special Interest Group (BIOSIG)"
-  title = "General Chair"
+  organization = "Int. Conf. of the Biometrics Special Interest Group"
+  title = "General Chair BIOSIG"
   date_start = "2020-09-15"
   date_end = ""
   description = ""
   
 [[item]]
-  organization = "Int. Workshop on Biometrics and Forensics (WIFS 2023)"
-  title = "General Chair"
+  organization = "Int. Workshop on Biometrics and Forensics"
+  title = "General Chair WIFS 2023"
   date_start = "2022-12-15"
   date_end = "2023-12-15"
   description = ""
   
 [[item]]
-  organization = "Int. Joint Conf. on Biometrics (IJCB 2023)"
-  title = "Publication Chair"
+  organization = "Int. Joint Conf. on Biometrics"
+  title = "Publication Chair IJCB 2023"
   date_start = "2022-10-15"
   date_end = "2023-09-30"
   description = ""
   
 [[item]]
-  organization = "WACV 2021 & 2022 Workshop on Explainable and Interpretable Artificial Intelligence for Biometrics"
-  title = "Sponsor Chair"
+  organization = "Workshop on Explainable and Interpretable Artificial Intelligence for Biometrics"
+  title = "Sponsor Chair WACV 2021 & 2022"
   date_start = "2020-09-20"
   date_end = ""
   description = ""
 
 
 [[item]]
-  organization = "Int. Workshop on Biometrics and Forensics (IWBF 2020)"
-  title = "Publication Chair"
+  organization = "Int. Workshop on Biometrics and Forensics"
+  title = "Publication Chair IWBF 2020"
   date_start = "2020-04-29"
   date_end = "2020-04-30"
   description = ""
 
 [[item]]
-  organization = "European Signal Processing Conf. (EUSIPCO 2018)"
-  title = "Special Session Chair"
+  organization = "European Signal Processing Conf."
+  title = "Special Session Chair EUSIPCO 2018"
   date_start = "2018-09-03"
   date_end = "2018-09-07"
   description = ""
   
 [[item]]
-  organization = "Int. Conf. on Biometrics: Theory Applications and Systems (BTAS 2016)"
-  title = "Competition Organisation"
+  organization = "Int. Conf. on Biometrics: Theory Applications and Systems"
+  title = "Competition Organisation BTAS 2016"
   date_start = "2016-09-06"
   date_end = "2016-09-09"
   description = "Keystroke Biometrics Ongoing Competition (KBOC)"
 
 [[item]]
-  organization = "International Conferences"
-  title = "Program Committee Member"
+  organization = "Program Committee Member"
+  title = "Among others: IJCB, WIFS, ICASSP, IWBF, BIOSIG"
   date_start = "2015-01-01"
   date_end = ""
-  description = "Among others: Int. Conf. on Biometrics (ICB), Int. Joint Conf. on Biometrics (IJCB), BIOSIG, European Signal Processing Conf. (EUSIPCO), Int. Conf. on Acoustics, Speech and Signal Processing (ICASSP)"
+  description = ""
 
 [[item]]
-  organization = "EURASIP Journal on Information Security"
+  organization = "EURASIP Journal on Information Security, "
   title = "Associated Editor"
   date_start = "2019-11-01"
   date_end = ""
@@ -138,15 +138,15 @@ date_format = "Jan 2006"
   - Datenschutz und Datensiherheit: Biometrie - Sicherheits- und DS-Konzepte (Eng. Biometrics - Security and data privacy aspects)"""
 
 [[item]]
-  organization = "Int. Joint Conf. on Biometrics (IJCB 2022)"
-  title = "Tutorial Chair"
+  organization = "Int. Joint Conf. on Biometrics"
+  title = "Tutorial Chair IJCB 2022"
   date_start = "2022-04-01"
   date_end = "2022-10-15"
   description = ""
   
 [[item]]
-  organization = "Int. Joint Conf. on Biometrics (IJCB 2022)"
-  title = "Area Chair"
+  organization = "Int. Joint Conf. on Biometrics"
+  title = "Area Chair IJCB 2022"
   date_start = "2022-04-01"
   date_end = "2022-10-15"
   description = ""
