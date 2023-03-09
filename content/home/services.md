@@ -31,8 +31,7 @@ date_format = "Jan 2006"
   - Tutorial Chair IJCB 2022
   - Area Chair IJCB 2022
   - Publication Chair IWBF 2020
-  - Special Session Chair EUSIPCO 2018
-  - """
+  - Special Session Chair EUSIPCO 2018"""
   
   
 
