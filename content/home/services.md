@@ -20,8 +20,21 @@ date_format = "Jan 2006"
 
 [[item]]
   organization = ""
+  title = "Committees, Working Groupes & Associations"
+  url = ""
+  date_start = "2023-01-01"
+  date_end = ""
+  description = """
+  - Member of the EAB, Co-Chair of the Academia Special Interest Group
+  - Member of DIN e.V. – German Standardisation Institute: ISO/IEC JTC 1/SC 37 – Biometrics
+  - Member of the IAPR TC4: Technical Committee on Biometrics, International Association for Pattern Recognition
+  - Member of the IEEE Biometrics Council Security and Privacy Technical Committee
+  - Member of the IEEE Information Forensics and Security Technical Committee"""
+
+[[item]]
+  organization = ""
   title = "Conference Chair"
-  date_start = "2018-01-01"
+  date_start = "2023-01-01"
   date_end = ""
   description = """
   - General Chair IEEE BIOSIG Conference (since 2020)
@@ -32,85 +45,44 @@ date_format = "Jan 2006"
   - Area Chair IJCB 2022
   - Publication Chair IWBF 2020
   - Special Session Chair EUSIPCO 2018"""
-  
-  
+ 
+ [[item]]
+  organization = ""
+  title = "Editorial Boards"
+  date_start = "2022-01-01"
+  date_end = ""
+  description = """
+  - Associated Editor EURASIP Journal on Information Security
+  - Associated Editor EURASIP Journal on Image and Video Processing"""
 
-  
 [[item]]
-  organization = "Int. Conf. on Biometrics: Theory Applications and Systems"
-  title = "Competition Organisation BTAS 2016"
-  date_start = "2016-09-06"
-  date_end = "2016-09-09"
-  description = "Keystroke Biometrics Ongoing Competition (KBOC)"
+  organization = "JRC Indexed Journals"
+  title = "Special Issue Editor"
+  date_start = "2021-01-01"
+  date_end = ""
+  description = """
+  - Pattern Recognition: SI on Masked Face Recognition and Touchless Biometrics at the time of COVID-19
+  - IET Biometrics: BIOSIG 2022 SI on Transparent, Unbiased and Reliable Methods for Person Authentication
+  - IET Biometrics: BIOSIG 2021 SI on Efficient, Reliable, and Privacy-Friendly Biometrics
+  - IET Biometrics: BIOSIG 2020 SI on Trustworthiness of Person Authentication
+  - Datenschutz und Datensiherheit: Biometrie - Sicherheits- und DS-Konzepte (Eng. Biometrics - Security and data privacy aspects)"""
 
 [[item]]
   organization = ""
   title = "Program Committee Member"
-  date_start = "2015-01-01"
+  date_start = "2020-01-01"
   date_end = ""
   description = "Among others: IJCB, WIFS, ICASSP, IWBF, BIOSIG"
 
 [[item]]
-  organization = "EURASIP Journal on Information Security, "
-  title = "Associated Editor"
-  date_start = "2019-11-01"
-  date_end = ""
-  description = ""
-  
-  [[item]]
   organization = ""
   title = "Journal Reviewer"
-  date_start = "2012-01-01"
+  date_start = "2013-01-01"
   date_end = ""
   description = "Among others: Elsevier Information Fusion, IEEE Trans. on Cybernetics, IEEE Trans. on Information Forensics and Security, Elsevier Pattern Recognition, IEEE Access, Elsevier Expert Systems with Applications, MDPI AG Sensors, IET Biometrics, EURASIP Journal on Information Security"
 
-[[item]]
-  organization = "EAB - European Association for Biometrics"
-  title = "Member of the EAB, Co-Chair of the Academia Special Interest Group"
-  url = "http://www.eab.org/"
-  date_start = "2015-09-30"
-  date_end = ""
-  description = ""
 
-[[item]]
-  organization = "DIN e.V. - German Standardisation Institute: ISO/IEC JTC 1/SC 37 - Biometrics"
-  title = "Member of DIN"
-  url = "DIN e.V. – German Standardisation Institute: ISO/IEC JTC 1/SC 37 – Biometrics"
-  date_start = "2016-06-30"
-  date_end = ""
-  description = ""
   
-[[item]]
-  organization = "IAPR TC4: Technical Committee on Biometrics, International Association for Pattern Recognition"
-  title = "Member of the IARP TC4 Conference Committee"
-  date_start = "2022-01-01"
-  date_end = ""
-  description = ""
-  
-[[item]]
-  organization = "IEEE Biometrics Council"
-  title = "Member of the IEEE Biometrics Council Security and Privacy Technical Committee"
-  date_start = "2022-07-01"
-  date_end = ""
-  description = ""
- 
-[[item]]
-  organization = "IEEE Signal Processing Society"
-  title = "Member of the IEEE Information Forensics and Security Technical Committee"
-  date_start = "2023-01-01"
-  date_end = "2025-12-31"
-  description = ""
-  
-[[item]]
-  organization = "JRC Indexed Journals"
-  title = "Special Issue Editor"
-  date_start = "2016-01-01"
-  date_end = ""
-  description = """
-  - Pattern Recognition: SI on Masked Face Recognition and Touchless Biometrics at the time of COVID-19
-  - IET Biometrics: BIOSIG 2021 SI on Efficient, Reliable, and Privacy-Friendly Biometrics
-  - IET Biometrics: BIOSIG 2020 SI on Trustworthiness of Person Authentication
-  - Datenschutz und Datensiherheit: Biometrie - Sicherheits- und DS-Konzepte (Eng. Biometrics - Security and data privacy aspects)"""
-  
+
 
 +++
