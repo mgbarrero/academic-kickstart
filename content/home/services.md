@@ -69,11 +69,11 @@ date_format = "Jan 2006"
   description = "Keystroke Biometrics Ongoing Competition (KBOC)"
 
 [[item]]
-  organization = "Program Committee Member"
-  title = "Among others: IJCB, WIFS, ICASSP, IWBF, BIOSIG"
+  organization = ""
+  title = "Program Committee Member"
   date_start = "2015-01-01"
   date_end = ""
-  description = ""
+  description = "Among others: IJCB, WIFS, ICASSP, IWBF, BIOSIG"
 
 [[item]]
   organization = "EURASIP Journal on Information Security, "
@@ -83,7 +83,7 @@ date_format = "Jan 2006"
   description = ""
   
   [[item]]
-  organization = "JRC Indexed Journals"
+  organization = ""
   title = "Journal Reviewer"
   date_start = "2012-01-01"
   date_end = ""
