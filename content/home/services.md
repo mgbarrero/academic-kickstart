@@ -56,7 +56,7 @@ date_format = "Jan 2006"
   - Associated Editor EURASIP Journal on Image and Video Processing"""
 
 [[item]]
-  organization = "JRC Indexed Journals"
+  organization = ""
   title = "Special Issue Editor"
   date_start = "2021-01-01"
   date_end = ""
