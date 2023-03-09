@@ -19,47 +19,23 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Int. Conf. of the Biometrics Special Interest Group"
-  title = "General Chair BIOSIG"
-  date_start = "2020-09-15"
+  organization = ""
+  title = "Conference Chair"
+  date_start = ""
   date_end = ""
-  description = ""
+  description = """
+  - General Chair IEEE BIOSIG Conference (since 2020)
+  - General Chair IEEE WIFS 2023
+  - Publication Chair IJCB 2023
+  - Sponsor Chair WACV 2021 & 2022
+  - Tutorial Chair IJCB 2022
+  - Area Chair IJCB 2022
+  - Publication Chair IWBF 2020
+  - Special Session Chair EUSIPCO 2018
+  - """
   
-[[item]]
-  organization = "Int. Workshop on Biometrics and Forensics"
-  title = "General Chair WIFS 2023"
-  date_start = "2022-12-15"
-  date_end = "2023-12-15"
-  description = ""
   
-[[item]]
-  organization = "Int. Joint Conf. on Biometrics"
-  title = "Publication Chair IJCB 2023"
-  date_start = "2022-10-15"
-  date_end = "2023-09-30"
-  description = ""
-  
-[[item]]
-  organization = "Workshop on Explainable and Interpretable Artificial Intelligence for Biometrics"
-  title = "Sponsor Chair WACV 2021 & 2022"
-  date_start = "2020-09-20"
-  date_end = ""
-  description = ""
 
-
-[[item]]
-  organization = "Int. Workshop on Biometrics and Forensics"
-  title = "Publication Chair IWBF 2020"
-  date_start = "2020-04-29"
-  date_end = "2020-04-30"
-  description = ""
-
-[[item]]
-  organization = "European Signal Processing Conf."
-  title = "Special Session Chair EUSIPCO 2018"
-  date_start = "2018-09-03"
-  date_end = "2018-09-07"
-  description = ""
   
 [[item]]
   organization = "Int. Conf. on Biometrics: Theory Applications and Systems"
@@ -136,20 +112,6 @@ date_format = "Jan 2006"
   - IET Biometrics: BIOSIG 2021 SI on Efficient, Reliable, and Privacy-Friendly Biometrics
   - IET Biometrics: BIOSIG 2020 SI on Trustworthiness of Person Authentication
   - Datenschutz und Datensiherheit: Biometrie - Sicherheits- und DS-Konzepte (Eng. Biometrics - Security and data privacy aspects)"""
-
-[[item]]
-  organization = "Int. Joint Conf. on Biometrics"
-  title = "Tutorial Chair IJCB 2022"
-  date_start = "2022-04-01"
-  date_end = "2022-10-15"
-  description = ""
-  
-[[item]]
-  organization = "Int. Joint Conf. on Biometrics"
-  title = "Area Chair IJCB 2022"
-  date_start = "2022-04-01"
-  date_end = "2022-10-15"
-  description = ""
   
 
 +++
