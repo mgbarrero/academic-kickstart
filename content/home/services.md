@@ -26,7 +26,14 @@ date_format = "Jan 2006"
   description = ""
   
 [[item]]
-  organization = "Int. Joint Conf. on Biometrics (IJCB)"
+  organization = "Int. Workshop on Biometrics and Forensics (WIFS 2023)"
+  title = "General Chair"
+  date_start = "2022-12-15"
+  date_end = "2023-12-15"
+  description = ""
+  
+[[item]]
+  organization = "Int. Joint Conf. on Biometrics (IJCB 2023)"
   title = "Publication Chair"
   date_start = "2022-10-15"
   date_end = "2023-09-30"
@@ -41,21 +48,21 @@ date_format = "Jan 2006"
 
 
 [[item]]
-  organization = "Int. Workshop on Biometrics and Forensics (IWBF)"
+  organization = "Int. Workshop on Biometrics and Forensics (IWBF 2020)"
   title = "Publication Chair"
   date_start = "2020-04-29"
   date_end = "2020-04-30"
   description = ""
 
 [[item]]
-  organization = "European Signal Processing Conf. (EUSIPCO)"
+  organization = "European Signal Processing Conf. (EUSIPCO 2018)"
   title = "Special Session Chair"
   date_start = "2018-09-03"
   date_end = "2018-09-07"
   description = ""
   
 [[item]]
-  organization = "Int. Conf. on Biometrics: Theory Applications and Systems (BTAS)"
+  organization = "Int. Conf. on Biometrics: Theory Applications and Systems (BTAS 2016)"
   title = "Competition Organisation"
   date_start = "2016-09-06"
   date_end = "2016-09-09"
@@ -131,14 +138,14 @@ date_format = "Jan 2006"
   - Datenschutz und Datensiherheit: Biometrie - Sicherheits- und DS-Konzepte (Eng. Biometrics - Security and data privacy aspects)"""
 
 [[item]]
-  organization = "Int. Joint Conf. on Biometrics (IJCB)"
+  organization = "Int. Joint Conf. on Biometrics (IJCB 2022)"
   title = "Tutorial Chair"
   date_start = "2022-04-01"
   date_end = "2022-10-15"
   description = ""
   
 [[item]]
-  organization = "Int. Joint Conf. on Biometrics (IJCB)"
+  organization = "Int. Joint Conf. on Biometrics (IJCB 2022)"
   title = "Area Chair"
   date_start = "2022-04-01"
   date_end = "2022-10-15"
