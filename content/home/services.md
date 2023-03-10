@@ -29,7 +29,8 @@ date_format = "Jan 2006"
   - Member of DIN e.V. – German Standardisation Institute: ISO/IEC JTC 1/SC 37 – Biometrics
   - Member of the IAPR TC4: Technical Committee on Biometrics, International Association for Pattern Recognition
   - Member of the IEEE Biometrics Council Security and Privacy Technical Committee
-  - Member of the IEEE Information Forensics and Security Technical Committee"""
+  - Member of the IEEE Information Forensics and Security Technical Committee
+  - Member of the Gesellschaft für Informatik e.V. (GI)"""
 
 [[item]]
   organization = ""
@@ -52,6 +53,7 @@ date_format = "Jan 2006"
   date_start = "2022-01-01"
   date_end = ""
   description = """
+  - Associated Editor Elsevier Image and Vision Computing Journal
   - Associated Editor EURASIP Journal on Information Security
   - Associated Editor EURASIP Journal on Image and Video Processing"""
 
