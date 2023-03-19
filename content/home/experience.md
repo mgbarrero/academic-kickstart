@@ -26,7 +26,17 @@ date_format = "Jan 2006"
   date_end = ""
   description = """
   """
-
+  
+[[experience]]
+  title = "Affiliated researcher"
+  company = "Norwegian University of Science and Technology (NTNU)"
+  company_url = "https://www.ntnu.edu/nbl#/view/about"
+  location = "Norway"
+  date_start = "2016-06-15"
+  date_end = ""
+  description = """
+  """
+  
 [[experience]]
   title = "PostDoc Researcher"
   company = "da/sec research group, Hochschule Darmstadt, ATHENE"
