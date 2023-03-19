@@ -28,7 +28,7 @@ date_format = "Jan 2006"
   """
   
 [[experience]]
-  title = "Affiliated researcher"
+  title = "Affiliated Researcher"
   company = "Norwegian University of Science and Technology (NTNU)"
   company_url = "https://www.ntnu.edu/nbl#/view/about"
   location = "Norway"
