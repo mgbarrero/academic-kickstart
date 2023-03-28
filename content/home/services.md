@@ -20,7 +20,7 @@ date_format = "Jan 2006"
 
 [[item]]
   organization = ""
-  title = "Committees, Working Groupes & Associations"
+  title = "Committees, Working Groups & Associations"
   url = ""
   date_start = "2023-01-01"
   date_end = ""
