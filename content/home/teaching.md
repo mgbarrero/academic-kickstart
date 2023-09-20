@@ -31,9 +31,7 @@ date_format = "Jan 2006"
   url = ""
   date_start = "2020-10-01"
   date_end = ""
-  description = "
-  - Einführung in die IT-Sicherheit (Eng. Introduction to IT-Security)
-  - Kryptographie (Eng. Cryptography)"
+  description = "Einführung in die IT-Sicherheit (Eng. Introduction to IT-Security), Kryptographie (Eng. Cryptography)"
   
 [[item]]
   organization = "Hochschule Ansbach"
