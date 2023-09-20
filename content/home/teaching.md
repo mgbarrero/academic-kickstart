@@ -19,18 +19,18 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "_"
-  title = "Vietnamese German Univeristy (VGU)"
+  organization = "VGU"
+  title = "Vietnamese German Univeristy"
   date_start = "2023-03-01"
   date_end = ""
   description = "Biometric Systems"
   
 [[item]]
-  organization = "_"
+  organization = "HSAN"
   title = "Hochschule Ansbach"
   url = ""
   date_start = "2020-10-01"
-  date_end = "2023-09-30"
+  date_end = ""
   description = "
   - Einführung in die IT-Sicherheit (Eng. Introduction to IT-Security)
   - Kryptographie (Eng. Cryptography)"
