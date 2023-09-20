@@ -29,8 +29,8 @@ date_format = "Jan 2006"
   organization = "HSAN"
   title = "Hochschule Ansbach"
   url = ""
-  date_start = "2020-10-03"
-  date_end = ""
+  date_start = "2020-03-15"
+  date_end = "2023-09-30"
   description = """
   - Einführung in die IT-Sicherheit (Eng. Introduction to IT-Security)
   - Kryptographie (Eng. Cryptography)
