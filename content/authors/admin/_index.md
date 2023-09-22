@@ -15,7 +15,7 @@ role: Full Professor
 # Organizations/Affiliations
 organizations:
 - name: Universität der Bundeswehr Mühnchen
-  link: "[https://www.hs-ansbach.de/](https://www.unibw.de/home-en)"
+  link: "https://www.unibw.de/home-en"
 
 # Short bio (displayed in user profile at end of posts)
 bio: I am a Full Professor for machine learning at the Universität der Bundeswehr München, in Germany.
