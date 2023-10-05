@@ -90,7 +90,7 @@ address = {street = "Carl-Wery-Straße 18", city = "Munich", postcode = "81739",
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "49.306610", longitude = "10.567048"}
+coordinates = {latitude = "48.0918842", longitude = "11.6447342"}
 
 # Directions for visitors to locate you.
 #directions = "Enter Building 1 and take the stairs to Office 200 on Floor 2"
