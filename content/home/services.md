@@ -41,10 +41,11 @@ date_format = "Jan 2006"
   description = """
   - General Chair IEEE BIOSIG Conference (since 2020)
   - General Chair IEEE WIFS 2023
+  - Program Chair IJCB 2024
   - Publication Chair IJCB 2023
-  - Sponsor Chair WACV 2021 & 2022
   - Tutorial Chair IJCB 2022
   - Area Chair IJCB 2022
+  - Sponsor Chair WACV 2021 & 2022
   - Publication Chair IWBF 2020
   - Special Session Chair EUSIPCO 2018"""
  
