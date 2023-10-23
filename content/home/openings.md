@@ -21,7 +21,7 @@ date_format = "Jan 2006"
 [[item]]
   organization = ""
   title = "PhD Student for Privacy-Preserving Biometric Recognition"
-  url = "https://www.marta-gomez-barrero.com/files/2023_10-WiMi-Ausschreibung-privacyBiometrics-eng.pdf"
+  url = "files/2023_10-WiMi-Ausschreibung-privacyBiometrics-eng.pdf"
   date_start = "2023-10-23"
   date_end = ""
   description = "test"
