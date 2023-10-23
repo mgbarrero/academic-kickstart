@@ -24,10 +24,7 @@ date_format = "Jan 2006"
   url = "[Details and application](https://www.marta-gomez-barrero.com/files/2023_10-WiMi-Ausschreibung-privacyBiometrics-eng.pdf)"
   date_start = "2023-10-23"
   date_end = ""
-  description = """
-  The Research Institute “Cyber Defence und Smart Data” CODE (www.unibw.de/code), established in 2017, with currently 15 professorships and over 200 researchers, is being expanded to one of the largest European research institutes for cyber security.
-The newly established Research Group “Biometrics & Machine Learning” (BioML) led by Marta Gomez-Barrero is looking for a PhD student in Computer Science on biometric template protection. The goal is to develop new algorithms to increase privacy protection within biometric recognition systems, based on the state of the art of both biometric recognition (e.g., deep learning architectures) and modern cryptography (post-quantum cryptography, differential learning).
-"""
+  description = "test"
 
 
 
