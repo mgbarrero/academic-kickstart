@@ -24,7 +24,11 @@ date_format = "Jan 2006"
   url = "files/2023_10-WiMi-Ausschreibung-privacyBiometrics-eng.pdf"
   date_start = "2023-10-23"
   date_end = ""
-  description = "test"
+  description = """
+  - PhD Position on biometric template protection
+  - Goal: develop new algorithms to increase privacy protection within biometric recognition systems, based on the state of the art of both biometric recognition (e.g., deep learning architectures) and modern cryptography (post-quantum cryptography, differential learning)
+  - Where: newly established Research Group “Biometrics & Machine Learning” (BioML) of the Research Institute “Cyber Defence und Smart Data” CODE (www.unibw.de/code)
+  """
 
 
 
