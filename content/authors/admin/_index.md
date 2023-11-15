@@ -52,7 +52,7 @@ social:
   link: mailto:marta.gomez-barrero@unibw.de #'#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=n6UNbE8AAAAJ&hl=es
+  link: https://scholar.google.com/citations?user=Q_CTbBcAAAAJ
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/martagomezbarrero/?locale=en_US
