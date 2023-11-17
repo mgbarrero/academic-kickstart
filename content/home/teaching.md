@@ -19,6 +19,16 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
+  organization = "UniBw M"
+  title = "Universität der Bundeswehr München"
+  date_start = "2023-10-01"
+  date_end = ""
+  description = """
+  - Biometric Recognition
+  - Deep Learning for IT-Security
+  - Privacy Preserving Machine Learning"""
+  
+[[item]]
   organization = "VGU"
   title = "Vietnamese German Univeristy"
   date_start = "2023-03-01"
