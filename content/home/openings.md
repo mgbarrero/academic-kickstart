@@ -20,7 +20,7 @@ date_format = "Jan 2006"
 
 [[item]]
   organization = ""
-  title = "PhD Student for Privacy-Preserving Biometric Recognition"
+  title = "PostDoc for Privacy-Preserving Biometric Recognition"
   url = "files/2024_03-WiMi-Ausschreibung-privacyBiometrics-eng.pdf"
   date_start = "2024-03-06"
   date_end = ""
