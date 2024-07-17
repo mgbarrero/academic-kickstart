@@ -38,7 +38,7 @@ date_format = "Jan 2006"
   date_end = ""
   description = """
   - Bachelor / Master Thesis on Biometric Recognition
-  - Goal: We are looking for motivated researchers to join BioML Lab and contribute to our research activities. If you are interested in a Bachelor or Master thesis in the field of Biometrics, please have a look at our offers and contact us!
+  - Goal: We are looking for motivated researchers to join BioML Lab and contribute to our research activities. If you are interested in a Bachelor or Master thesis in the field of Biometrics, please have a look at our [offers](https://www.unibw.de/bioml-en/open-positions) and contact us!
   - Where: “Biometrics & Machine Learning” (BioML) lab of the Research Institute “Cyber Defence und Smart Data” CODE (www.unibw.de/bioml-en)
   """
 
