@@ -18,19 +18,29 @@ date_format = "Jan 2006"
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
+#[[item]]
+#  organization = ""
+#  title = "PostDoc for Privacy-Preserving Biometric Recognition"
+#  url = "files/2024_03-WiMi-Ausschreibung-privacyBiometrics-eng.pdf"
+#  date_start = "2024-03-06"
+#  date_end = ""
+#  description = """
+#  - PostDoc Position on biometric template protection
+#  - Goal: develop new algorithms to increase privacy protection within biometric recognition systems, based on the state of the art of both biometric recognition (e.g., deep learning architectures) and modern cryptography (post-quantum cryptography, differential learning); co-supervision of PhD students; involvement in funding acquisition
+#  - Where: newly established Research Group “Biometrics & Machine Learning” (BioML) of the Research Institute “Cyber Defence und Smart Data” CODE (www.unibw.de/bioml-en)
+#  """
+
 [[item]]
   organization = ""
-  title = "PostDoc for Privacy-Preserving Biometric Recognition"
-  url = "files/2024_03-WiMi-Ausschreibung-privacyBiometrics-eng.pdf"
-  date_start = "2024-03-06"
+  title = "Bachelor / Master Thesis"
+  url = "https://www.unibw.de/bioml-en/open-positions"
+  date_start = "2024-07-16"
   date_end = ""
   description = """
-  - PostDoc Position on biometric template protection
-  - Goal: develop new algorithms to increase privacy protection within biometric recognition systems, based on the state of the art of both biometric recognition (e.g., deep learning architectures) and modern cryptography (post-quantum cryptography, differential learning); co-supervision of PhD students; involvement in funding acquisition
-  - Where: newly established Research Group “Biometrics & Machine Learning” (BioML) of the Research Institute “Cyber Defence und Smart Data” CODE (www.unibw.de/bioml-en)
+  - Bachelor / Master Thesis on Biometric Recognition
+  - Goal: We are looking for motivated researchers to join BioML Lab and contribute to our research activities. If you are interested in a Bachelor or Master thesis in the field of Biometrics, please have a look at our offers and contact us!
+  - Where: “Biometrics & Machine Learning” (BioML) lab of the Research Institute “Cyber Defence und Smart Data” CODE (www.unibw.de/bioml-en)
   """
-
-
 
 
 +++
