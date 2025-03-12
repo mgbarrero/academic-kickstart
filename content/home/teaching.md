@@ -27,12 +27,19 @@ date_format = "Jan 2006"
   - Biometric Recognition
   - Deep Learning for IT-Security
   - Privacy Preserving Machine Learning"""
+
+[[item]]
+  organization = "HS-Aalen"
+  title = "Hochschule Aalen"
+  date_start = "2025-03-01"
+  date_end = ""
+  description = "Cyber Sicherheit"
   
 [[item]]
   organization = "VGU"
   title = "Vietnamese German Univeristy"
   date_start = "2023-03-01"
-  date_end = ""
+  date_end = "2023-05-01"
   description = "Biometric Systems"
   
 [[item]]
