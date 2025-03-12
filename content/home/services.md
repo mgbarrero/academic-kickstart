@@ -29,6 +29,7 @@ date_format = "Jan 2006"
   - Co-Chair of the EAB Academia Special Interest Group (until 2023)
   - Member of DIN e.V. – German Standardisation Institute: ISO/IEC JTC 1/SC 37 – Biometrics
   - Member of the IAPR TC4: Technical Committee on Biometrics, International Association for Pattern Recognition
+  - Vice Chair for Conferences of the IAPR TC4: Technical Committee on Biometrics (2025-2026)
   - Member of the IEEE Biometrics Council Security and Privacy Technical Committee
   - Member of the IEEE Information Forensics and Security Technical Committee (2023-2025)
   - Member of the Gesellschaft für Informatik e.V. (GI) and Chair of the BIOSIG Special Interest Group"""
