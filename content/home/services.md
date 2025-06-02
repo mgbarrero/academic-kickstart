@@ -43,7 +43,7 @@ date_format = "Jan 2006"
   - General Chair IEEE BIOSIG Conference (since 2020), IWBF 2025, WIFS 2023
   - Program Chair IJCB 2024
   - Publication Chair IJCB 2025, IJCB 2023, IWBF 2020
-  - Tutorial Chair IJCB 2022
+  - Tutorial Chair WACV 2026, IJCB 2022
   - Area Chair IJCB 2022
   - Sponsor Chair WACV 2021 & 2022
   - Special Session Chair EUSIPCO 2018"""
@@ -54,6 +54,7 @@ date_format = "Jan 2006"
   date_start = "2022-01-01"
   date_end = ""
   description = """
+  - Associated Editor IEEE Trans. on Biometrics, Behavior, and Identity Science (TBIOM)
   - Associated Editor Elsevier Image and Vision Computing Journal
   - Associated Editor EURASIP Journal on Information Security
   - Associated Editor EURASIP Journal on Image and Video Processing"""
@@ -82,7 +83,7 @@ date_format = "Jan 2006"
   title = "Journal Reviewer"
   date_start = "2013-01-01"
   date_end = ""
-  description = "Among others: Elsevier Information Fusion, IEEE Trans. on Cybernetics, IEEE Trans. on Information Forensics and Security, Elsevier Pattern Recognition, IEEE Access, Elsevier Expert Systems with Applications, MDPI AG Sensors, IET Biometrics, EURASIP Journal on Information Security"
+  description = "Among others: Elsevier Information Fusion, IEEE Trans. on Cybernetics, IEEE Trans. on Information Forensics and Security, IEEE Trans. on Biometrics, Behavior, and Identity Science (TBIOM), Elsevier Pattern Recognition, IEEE Access, Elsevier Expert Systems with Applications, MDPI AG Sensors, IET Biometrics, EURASIP Journal on Information Security"
 
 
   
